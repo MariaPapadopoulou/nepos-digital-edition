@@ -2,7 +2,7 @@
 
 A digital scholarly edition of Cornelius Nepos’ *De viris illustribus*, combining the Latin text with people, places, scholarly assertions, maps, networks and **Ask Nepos**.
 
-**Curated and maintained by Dr. Maria Papadopoulou, Digital Humanities and Classics, University of Crete.**
+**Curated and maintained by [Dr. Maria Papadopoulou](https://maria-papadopoulou.eu/), Digital Humanities and Classics, University of Crete.**
 
 [Explore the edition](https://nepos.humanisticadigitalia.eu/)
 
