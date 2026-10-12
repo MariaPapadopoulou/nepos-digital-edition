@@ -17,5 +17,3 @@ A digital scholarly edition of Cornelius Nepos’ *De viris illustribus*, combin
 ## Use
 
 See [Self-hosting](docs/SELF-HOSTING.md) for installation and configuration, and [TEI documentation](docs/TEI.md) for sources, encoding and regeneration. API features require a running Node.js server.
-
-To add this bundle to GitHub, extract the ZIP and copy the contents of the `nepos` folder into your repository, then commit and push with GitHub Desktop.
