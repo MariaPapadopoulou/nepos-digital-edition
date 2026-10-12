@@ -1,0 +1,193 @@
+{
+  "generated": "2026-10-12",
+  "sourceCommit": "128a05afa9cc7179ab18f8d05f78a9f1dd50e415",
+  "corpus": "web/tei/nepos-assertions-tei.xml",
+  "corpusSha256": "547ca4501688962aeb7d237ecee92e2f32bff4502648ed193dd2104dcbba2d96",
+  "works": 26,
+  "perseusWorks": 25,
+  "praefatio": {
+    "source": "server/data/chapters.json",
+    "filter": {
+      "life": "praefatio"
+    },
+    "sections": 8
+  },
+  "chapters": 176,
+  "sections": 837,
+  "assertions": 139,
+  "passageLinks": 177,
+  "sourceFiles": [
+    {
+      "life": "miltiades",
+      "path": "data/perseus/phi0588/abo001/phi0588.abo001.perseus-lat2.xml",
+      "sha256": "97d1c5973e6472521e3aaf94a8ce0fe0497211cac584b50f20cc52fe5b235396",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo001/phi0588.abo001.perseus-lat2.xml"
+    },
+    {
+      "life": "themistocles",
+      "path": "data/perseus/phi0588/abo002/phi0588.abo002.perseus-lat2.xml",
+      "sha256": "29f4852390a5804d1b345ae4cf2b077d6b1ff6de96c7be922c28dd117333bb5b",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo002/phi0588.abo002.perseus-lat2.xml"
+    },
+    {
+      "life": "aristides",
+      "path": "data/perseus/phi0588/abo003/phi0588.abo003.perseus-lat2.xml",
+      "sha256": "8cdef6e0691931c1f98e925cd1c92110e0be6befd2e50c8aa401749efddec701",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo003/phi0588.abo003.perseus-lat2.xml"
+    },
+    {
+      "life": "pausanias",
+      "path": "data/perseus/phi0588/abo004/phi0588.abo004.perseus-lat2.xml",
+      "sha256": "fea3d1f660ed5f58f37332e191d67eec8f938286d964f8e2649f096837caa7b8",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo004/phi0588.abo004.perseus-lat2.xml"
+    },
+    {
+      "life": "cimon",
+      "path": "data/perseus/phi0588/abo005/phi0588.abo005.perseus-lat2.xml",
+      "sha256": "507b6f1eb956bf317d0c0932fb102a35cf64f90ccf3bd72c259c06a7fbda7c8f",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo005/phi0588.abo005.perseus-lat2.xml"
+    },
+    {
+      "life": "lysander",
+      "path": "data/perseus/phi0588/abo006/phi0588.abo006.perseus-lat2.xml",
+      "sha256": "d4942fb8a3290fadfc22b27b6b41b396fe3903d8ce0ccd8af0b5c63a34b86b2c",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo006/phi0588.abo006.perseus-lat2.xml"
+    },
+    {
+      "life": "alcibiades",
+      "path": "data/perseus/phi0588/abo007/phi0588.abo007.perseus-lat2.xml",
+      "sha256": "8a642099d1751add02ce3bfead2a3b080c6c103d8af87047a4f376486eeb07a5",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo007/phi0588.abo007.perseus-lat2.xml"
+    },
+    {
+      "life": "thrasybulus",
+      "path": "data/perseus/phi0588/abo008/phi0588.abo008.perseus-lat2.xml",
+      "sha256": "8d241e288c1234ebd399da6c4db2fafc505b2484dc9df373c7cb9c0e62822eb1",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo008/phi0588.abo008.perseus-lat2.xml"
+    },
+    {
+      "life": "conon",
+      "path": "data/perseus/phi0588/abo009/phi0588.abo009.perseus-lat2.xml",
+      "sha256": "af9a9223e3a8fb174de2c47958fcda91e1a622de23c2625e4cd68d9e0db73d81",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo009/phi0588.abo009.perseus-lat2.xml"
+    },
+    {
+      "life": "dion",
+      "path": "data/perseus/phi0588/abo010/phi0588.abo010.perseus-lat2.xml",
+      "sha256": "dcc93f47f61ea5056493f9a102c0489e18d777e4218cdf1c239900ec3f779825",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo010/phi0588.abo010.perseus-lat2.xml"
+    },
+    {
+      "life": "iphicrates",
+      "path": "data/perseus/phi0588/abo011/phi0588.abo011.perseus-lat2.xml",
+      "sha256": "7e53eb11dd1e58b9a8c047ca352491e43f03c33bf5068238be7a958d098d9d3b",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo011/phi0588.abo011.perseus-lat2.xml"
+    },
+    {
+      "life": "chabrias",
+      "path": "data/perseus/phi0588/abo012/phi0588.abo012.perseus-lat2.xml",
+      "sha256": "d4dfb7fea1e3504bfd38c112b28c8d826777dd389ea23dd2e216fdb728efd906",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo012/phi0588.abo012.perseus-lat2.xml"
+    },
+    {
+      "life": "timotheus",
+      "path": "data/perseus/phi0588/abo013/phi0588.abo013.perseus-lat2.xml",
+      "sha256": "f9a628607d9c519057b1f339a8daf438bf0decb3cd6957ba96965d9479b481b2",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo013/phi0588.abo013.perseus-lat2.xml"
+    },
+    {
+      "life": "datames",
+      "path": "data/perseus/phi0588/abo014/phi0588.abo014.perseus-lat2.xml",
+      "sha256": "818f289920771c48ae81d3a8e74c21d8ab69fd22c5351e543152b2fa3412a1f6",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo014/phi0588.abo014.perseus-lat2.xml"
+    },
+    {
+      "life": "epaminondas",
+      "path": "data/perseus/phi0588/abo015/phi0588.abo015.perseus-lat2.xml",
+      "sha256": "dee8f06a09d9e508ff2678adae410431ef85e1d83d8be5141d33b2de7201564f",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo015/phi0588.abo015.perseus-lat2.xml"
+    },
+    {
+      "life": "pelopidas",
+      "path": "data/perseus/phi0588/abo016/phi0588.abo016.perseus-lat2.xml",
+      "sha256": "bcb701112d4f150b2b3358718b8c2d54a6f745bd7469b2042c71aae5b39486a2",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo016/phi0588.abo016.perseus-lat2.xml"
+    },
+    {
+      "life": "agesilaus",
+      "path": "data/perseus/phi0588/abo017/phi0588.abo017.perseus-lat2.xml",
+      "sha256": "30dd3f077196a557bef8cf1d0a09f116f19707f23af02b4f2a962d573765620e",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo017/phi0588.abo017.perseus-lat2.xml"
+    },
+    {
+      "life": "eumenes",
+      "path": "data/perseus/phi0588/abo018/phi0588.abo018.perseus-lat2.xml",
+      "sha256": "c309da4de7723115cc185d8d958885471ccd5546ef0dc6d114b50e6c84ba0d6d",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo018/phi0588.abo018.perseus-lat2.xml"
+    },
+    {
+      "life": "phocion",
+      "path": "data/perseus/phi0588/abo019/phi0588.abo019.perseus-lat2.xml",
+      "sha256": "3c89eedd17e5a035598d4376b9ac172aa6d02a946068e337737bbaddc779f833",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo019/phi0588.abo019.perseus-lat2.xml"
+    },
+    {
+      "life": "timoleon",
+      "path": "data/perseus/phi0588/abo020/phi0588.abo020.perseus-lat2.xml",
+      "sha256": "c68aa9433d18248140a5742c483a9583fb867c5eaf03345c34d317353176d82a",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo020/phi0588.abo020.perseus-lat2.xml"
+    },
+    {
+      "life": "de-regibus",
+      "path": "data/perseus/phi0588/abo021/phi0588.abo021.perseus-lat2.xml",
+      "sha256": "cf39b04894852f2821ad2a640026b04fcdc5c1161b13531659cc751776c31580",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo021/phi0588.abo021.perseus-lat2.xml"
+    },
+    {
+      "life": "hamilcar",
+      "path": "data/perseus/phi0588/abo022/phi0588.abo022.perseus-lat2.xml",
+      "sha256": "9dfd376f8d89c448fa615061ffa779cdb3c559b4a839be4a614fa710e137c5e4",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo022/phi0588.abo022.perseus-lat2.xml"
+    },
+    {
+      "life": "hannibal",
+      "path": "data/perseus/phi0588/abo023/phi0588.abo023.perseus-lat2.xml",
+      "sha256": "862b4e771c8b7796b55ba26bdc584b4b64a0cd0dbc087d0088ccf6bbf94d67fa",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo023/phi0588.abo023.perseus-lat2.xml"
+    },
+    {
+      "life": "cato",
+      "path": "data/perseus/phi0588/abo024/phi0588.abo024.perseus-lat2.xml",
+      "sha256": "2270e775b4d5e3f6414eed4143ea8951981ae4c28e1735de15ea07bb05757525",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo024/phi0588.abo024.perseus-lat2.xml"
+    },
+    {
+      "life": "atticus",
+      "path": "data/perseus/phi0588/abo025/phi0588.abo025.perseus-lat2.xml",
+      "sha256": "d09a38abf39ac4c370346baf2c97b5e83e88835a73f96dcf1b2e8544e9c99fb5",
+      "source": "https://github.com/PerseusDL/canonical-latinLit/blob/128a05afa9cc7179ab18f8d05f78a9f1dd50e415/data/phi0588/abo025/phi0588.abo025.perseus-lat2.xml"
+    }
+  ],
+  "dataFiles": [
+    {
+      "path": "server/data/assertions.json",
+      "sha256": "557ecbb165fb91515ef689be28c4eec34d24cfc65824c66b04b30628327d9e3f"
+    },
+    {
+      "path": "server/data/persons.json",
+      "sha256": "5125dbba735d2f8d5e5372bd79e70b91f30f7b21fa82a89f4b1ff41a9e31ab15"
+    },
+    {
+      "path": "server/data/places.json",
+      "sha256": "572675ec5e975325302f0c7d4e3f5341c021514b629579d08ecfd3937516620c"
+    },
+    {
+      "path": "server/data/lives.json",
+      "sha256": "653031d5c75b70889c49cb432b9b9f8aca62ef0394062d3d6cbcdca882e559e1"
+    },
+    {
+      "path": "server/data/chapters.json",
+      "sha256": "dc8c4ac7b4893b33d3055186427b3dfb5166f31b35d8245a5a0a30214a0fe15a"
+    }
+  ]
+}

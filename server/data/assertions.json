@@ -1,0 +1,2400 @@
+[
+ {
+  "id": "a-mil-1",
+  "subject": "miltiades",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Miltiades, Cimonis filius, Atheniensis: an Athenian of ancient family.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-mil-2",
+  "subject": "miltiades",
+  "topic": "travel",
+  "place": "lemnos",
+  "confidence": "high",
+  "note": "Called at Lemnos en route and later subjected the island to Athens.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 1
+   },
+   {
+    "life": "miltiades",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -510,
+   "label": "c. 510 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-mil-3",
+  "subject": "miltiades",
+  "topic": "residence",
+  "place": "chersonese",
+  "confidence": "high",
+  "note": "Ruled the Thracian Chersonese with quasi-regal authority.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -516,
+   "label": "c. 516 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-mil-4",
+  "subject": "miltiades",
+  "topic": "travel",
+  "place": "marathon",
+  "confidence": "high",
+  "note": "Commanded the Athenians at the battle of Marathon against Datis.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 4
+   },
+   {
+    "life": "miltiades",
+    "chapter": 5
+   }
+  ],
+  "date": {
+   "year": -490,
+   "label": "490 BC"
+  }
+ },
+ {
+  "id": "a-mil-5",
+  "subject": "miltiades",
+  "topic": "travel",
+  "place": "paros",
+  "confidence": "high",
+  "note": "Led the failed expedition against Paros, source of his condemnation.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 7
+   }
+  ],
+  "date": {
+   "year": -489,
+   "label": "489 BC"
+  }
+ },
+ {
+  "id": "a-mil-6",
+  "subject": "miltiades",
+  "topic": "death",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Died in the public prison at Athens of the wound received at Paros.",
+  "passages": [
+   {
+    "life": "miltiades",
+    "chapter": 7
+   }
+  ]
+ },
+ {
+  "id": "a-the-1",
+  "subject": "themistocles",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Themistocles, Neocli filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-the-2",
+  "subject": "themistocles",
+  "topic": "travel",
+  "place": "salamis",
+  "confidence": "high",
+  "note": "Engineered and fought the naval battle of Salamis.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 3
+   },
+   {
+    "life": "themistocles",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -480,
+   "label": "480 BC"
+  }
+ },
+ {
+  "id": "a-the-3",
+  "subject": "themistocles",
+  "topic": "exile",
+  "place": "argos",
+  "confidence": "high",
+  "note": "Ostracized; withdrew to Argos, then fled via Corcyra to king Admetus when condemned in absence.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 8
+   }
+  ],
+  "date": {
+   "year": -471,
+   "label": "c. 471 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-the-4",
+  "subject": "themistocles",
+  "topic": "travel",
+  "place": "persia",
+  "confidence": "high",
+  "note": "Fled to the Persian court and won the favor of Artaxerxes.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 9
+   }
+  ],
+  "date": {
+   "year": -465,
+   "label": "c. 465 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-the-5",
+  "subject": "themistocles",
+  "topic": "residence",
+  "place": "magnesia",
+  "confidence": "high",
+  "note": "Given Magnesia by the king; settled there.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 10
+   }
+  ],
+  "date": {
+   "year": -464,
+   "label": "c. 464 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-the-6",
+  "subject": "themistocles",
+  "topic": "death",
+  "place": "magnesia",
+  "confidence": "medium",
+  "note": "Died at Magnesia; Nepos reports both illness and the rumor of self-poisoning (reported assertion).",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "a-ari-1",
+  "subject": "aristides",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Aristides, Lysimachi filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-ari-2",
+  "subject": "aristides",
+  "topic": "exile",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Ostracized for ten years' exile though famed for justice; recalled before the Persian invasion.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -482,
+   "label": "482 BC"
+  }
+ },
+ {
+  "id": "a-ari-3",
+  "subject": "aristides",
+  "topic": "travel",
+  "place": "salamis",
+  "confidence": "high",
+  "note": "Fought in the sea battle at Salamis before his recall from exile took effect.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -480,
+   "label": "480 BC"
+  }
+ },
+ {
+  "id": "a-ari-4",
+  "subject": "aristides",
+  "topic": "travel",
+  "place": "plataea",
+  "confidence": "high",
+  "note": "Athenian general at Plataea where Mardonius was routed.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -479,
+   "label": "479 BC"
+  }
+ },
+ {
+  "id": "a-ari-5",
+  "subject": "aristides",
+  "topic": "death",
+  "place": "athens",
+  "confidence": "medium",
+  "note": "Died about four years after Themistocles' banishment, so poor he left scarcely enough for burial.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "a-pau-1",
+  "subject": "pausanias",
+  "topic": "birth",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Pausanias Lacedaemonius: a Spartan of the royal house.",
+  "passages": [
+   {
+    "life": "pausanias",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-pau-2",
+  "subject": "pausanias",
+  "topic": "travel",
+  "place": "plataea",
+  "confidence": "high",
+  "note": "Commanded the Greeks when Mardonius was driven from Greece.",
+  "passages": [
+   {
+    "life": "pausanias",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -479,
+   "label": "479 BC"
+  }
+ },
+ {
+  "id": "a-pau-3",
+  "subject": "pausanias",
+  "topic": "travel",
+  "place": "byzantium",
+  "confidence": "high",
+  "note": "Took Byzantium and began his medizing correspondence with Xerxes.",
+  "passages": [
+   {
+    "life": "pausanias",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -478,
+   "label": "478 BC"
+  }
+ },
+ {
+  "id": "a-pau-4",
+  "subject": "pausanias",
+  "topic": "death",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Walled up in the temple of Athena of the Brazen House and starved.",
+  "passages": [
+   {
+    "life": "pausanias",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "a-cim-1",
+  "subject": "cimon",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Cimon, Miltiadis filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "cimon",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-cim-2",
+  "subject": "cimon",
+  "topic": "travel",
+  "place": "thrace",
+  "confidence": "high",
+  "note": "Defeated the Thracians at the river Strymon and founded Amphipolis.",
+  "passages": [
+   {
+    "life": "cimon",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -476,
+   "label": "c. 476 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-cim-3",
+  "subject": "cimon",
+  "topic": "exile",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Ostracized for ten years despite his services; recalled early.",
+  "passages": [
+   {
+    "life": "cimon",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -461,
+   "label": "461 BC"
+  }
+ },
+ {
+  "id": "a-cim-4",
+  "subject": "cimon",
+  "topic": "death",
+  "place": "cyprus",
+  "confidence": "high",
+  "note": "Died of illness while besieging Citium on Cyprus.",
+  "passages": [
+   {
+    "life": "cimon",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "a-lys-1",
+  "subject": "lysander",
+  "topic": "birth",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Lysander Lacedaemonius.",
+  "passages": [
+   {
+    "life": "lysander",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-lys-2",
+  "subject": "lysander",
+  "topic": "travel",
+  "place": "aegospotami",
+  "confidence": "high",
+  "note": "Destroyed the Athenian fleet at Aegospotami, ending the Peloponnesian War.",
+  "passages": [
+   {
+    "life": "lysander",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -405,
+   "label": "405 BC"
+  }
+ },
+ {
+  "id": "a-lys-3",
+  "subject": "lysander",
+  "topic": "death",
+  "place": "haliartus",
+  "confidence": "high",
+  "note": "Killed in battle at Haliartus in Boeotia.",
+  "passages": [
+   {
+    "life": "lysander",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "a-alc-1",
+  "subject": "alcibiades",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Alcibiades, Cliniae filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-alc-2",
+  "subject": "alcibiades",
+  "topic": "travel",
+  "place": "sicily",
+  "confidence": "high",
+  "note": "Chosen general for the Sicilian expedition, recalled to stand trial.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -415,
+   "label": "415 BC"
+  }
+ },
+ {
+  "id": "a-alc-3",
+  "subject": "alcibiades",
+  "topic": "exile",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Condemned in absence, took refuge at Sparta and advised Athens' enemies.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -414,
+   "label": "c. 414 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-alc-4",
+  "subject": "alcibiades",
+  "topic": "travel",
+  "place": "hellespont",
+  "confidence": "high",
+  "note": "Won victories at Cyzicus and on the Hellespont after joining the fleet.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 5
+   },
+   {
+    "life": "alcibiades",
+    "chapter": 6
+   }
+  ],
+  "date": {
+   "year": -410,
+   "label": "410 BC"
+  }
+ },
+ {
+  "id": "a-alc-5",
+  "subject": "alcibiades",
+  "topic": "residence",
+  "place": "thrace",
+  "confidence": "high",
+  "note": "Withdrew to his castles in Thrace after his second fall.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 7
+   }
+  ],
+  "date": {
+   "year": -406,
+   "label": "c. 406 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-alc-6",
+  "subject": "alcibiades",
+  "topic": "death",
+  "place": "phrygia",
+  "confidence": "high",
+  "note": "Burned to death in Phrygia through Pharnabazus' agents.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "a-thr-1",
+  "subject": "thrasybulus",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Thrasybulus, Lyci filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "thrasybulus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-thr-2",
+  "subject": "thrasybulus",
+  "topic": "travel",
+  "place": "eleusis",
+  "confidence": "high",
+  "note": "From Phyle seized the Piraeus and overthrew the Thirty Tyrants.",
+  "passages": [
+   {
+    "life": "thrasybulus",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -403,
+   "label": "403 BC"
+  }
+ },
+ {
+  "id": "a-thr-3",
+  "subject": "thrasybulus",
+  "topic": "death",
+  "place": "cilicia",
+  "confidence": "high",
+  "note": "Killed in his tent by barbarians after bringing his fleet to Cilicia.",
+  "passages": [
+   {
+    "life": "thrasybulus",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "a-con-1",
+  "subject": "conon",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Conon Atheniensis.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-con-2",
+  "subject": "conon",
+  "topic": "exile",
+  "place": "ionia",
+  "confidence": "high",
+  "note": "After Aegospotami betook himself to Pharnabazus, satrap of Ionia and Lydia, rather than return home.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -405,
+   "label": "405 BC"
+  }
+ },
+ {
+  "id": "a-con-3",
+  "subject": "conon",
+  "topic": "travel",
+  "place": "cnidus",
+  "confidence": "high",
+  "note": "Commanding the Persian fleet, crushed Sparta's sea power off Cnidus.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -394,
+   "label": "394 BC"
+  }
+ },
+ {
+  "id": "a-con-4",
+  "subject": "conon",
+  "topic": "travel",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Returned in triumph and rebuilt the Long Walls of Athens.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -393,
+   "label": "393 BC"
+  }
+ },
+ {
+  "id": "a-con-5",
+  "subject": "conon",
+  "topic": "death",
+  "place": "cyprus",
+  "confidence": "low",
+  "note": "Arrested by Tiribazus; Nepos leaves his end uncertain; he died on Cyprus by most accounts.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "a-dio-1",
+  "subject": "dion",
+  "topic": "birth",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Dion, Hipparini filius, Syracusanus, nobili genere natus.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-dio-2",
+  "subject": "dion",
+  "topic": "exile",
+  "place": "corinth",
+  "confidence": "high",
+  "note": "Banished by Dionysius II; lived in Greece, chiefly Corinth and Athens.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -366,
+   "label": "366 BC"
+  }
+ },
+ {
+  "id": "a-dio-3",
+  "subject": "dion",
+  "topic": "travel",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Sailed back and liberated Syracuse from the tyrant.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 5
+   }
+  ],
+  "date": {
+   "year": -357,
+   "label": "357 BC"
+  }
+ },
+ {
+  "id": "a-dio-4",
+  "subject": "dion",
+  "topic": "death",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Assassinated in his own house by conspirators under Callicrates.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 9
+   },
+   {
+    "life": "dion",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "a-iph-1",
+  "subject": "iphicrates",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Iphicrates Atheniensis: famed for discipline and the reformed peltast.",
+  "passages": [
+   {
+    "life": "iphicrates",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-iph-2",
+  "subject": "iphicrates",
+  "topic": "travel",
+  "place": "corinth",
+  "confidence": "high",
+  "note": "Destroyed a Spartan mora near Corinth.",
+  "passages": [
+   {
+    "life": "iphicrates",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -390,
+   "label": "390 BC"
+  }
+ },
+ {
+  "id": "a-iph-3",
+  "subject": "iphicrates",
+  "topic": "travel",
+  "place": "thrace",
+  "confidence": "high",
+  "note": "Served Seuthes in Thrace and restored him to his kingdom.",
+  "passages": [
+   {
+    "life": "iphicrates",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -386,
+   "label": "c. 386 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-iph-4",
+  "subject": "iphicrates",
+  "topic": "death",
+  "place": "athens",
+  "confidence": "medium",
+  "note": "Acquitted at his capital trial, lived out his days at Athens.",
+  "passages": [
+   {
+    "life": "iphicrates",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "a-cha-1",
+  "subject": "chabrias",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Chabrias Atheniensis.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-cha-2",
+  "subject": "chabrias",
+  "topic": "travel",
+  "place": "egypt",
+  "confidence": "high",
+  "note": "Commanded for Nectanebo in Egypt of his own accord.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 2
+   },
+   {
+    "life": "chabrias",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -377,
+   "label": "c. 377 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-cha-3",
+  "subject": "chabrias",
+  "topic": "death",
+  "place": "chios",
+  "confidence": "high",
+  "note": "Died fighting from his ship in the harbor of Chios in the Social War, refusing to abandon it.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "a-tim-1",
+  "subject": "timotheus",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Timotheus, Cononis filius, Atheniensis.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-tim-2",
+  "subject": "timotheus",
+  "topic": "travel",
+  "place": "corcyra",
+  "confidence": "medium",
+  "note": "Circumnavigated the Peloponnese, defeating the Spartans off Corcyra.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -375,
+   "label": "375 BC"
+  }
+ },
+ {
+  "id": "a-tim-3",
+  "subject": "timotheus",
+  "topic": "exile",
+  "place": "chalcis",
+  "confidence": "high",
+  "note": "Condemned in the Social War prosecution, withdrew to Chalcis.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -354,
+   "label": "c. 354 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-tim-4",
+  "subject": "timotheus",
+  "topic": "death",
+  "place": "chalcis",
+  "confidence": "high",
+  "note": "Died in exile at Chalcis.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 3
+   },
+   {
+    "life": "timotheus",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "a-dat-1",
+  "subject": "datames",
+  "topic": "birth",
+  "place": "caria",
+  "confidence": "medium",
+  "note": "Patre Camisare, natione Care, matre Scythissa natus: of Carian stock.",
+  "passages": [
+   {
+    "life": "datames",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-dat-2",
+  "subject": "datames",
+  "topic": "residence",
+  "place": "cappadocia",
+  "confidence": "high",
+  "note": "Governed Cappadocia, inherited from his father.",
+  "passages": [
+   {
+    "life": "datames",
+    "chapter": 1
+   }
+  ],
+  "range": {
+   "startYear": -380,
+   "endYear": -362,
+   "label": "c. 380–362 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-dat-3",
+  "subject": "datames",
+  "topic": "travel",
+  "place": "egypt",
+  "confidence": "medium",
+  "note": "Appointed to command the Egyptian expedition before the court turned against him.",
+  "passages": [
+   {
+    "life": "datames",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -373,
+   "label": "c. 373 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-dat-4",
+  "subject": "datames",
+  "topic": "death",
+  "place": "cappadocia",
+  "confidence": "high",
+  "note": "Murdered at a parley by Mithridates after surviving many plots.",
+  "passages": [
+   {
+    "life": "datames",
+    "chapter": 11
+   }
+  ]
+ },
+ {
+  "id": "a-epa-1",
+  "subject": "epaminondas",
+  "topic": "birth",
+  "place": "thebes",
+  "confidence": "high",
+  "note": "Epaminondas, Polymnii filius, Thebanus.",
+  "passages": [
+   {
+    "life": "epaminondas",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-epa-2",
+  "subject": "epaminondas",
+  "topic": "travel",
+  "place": "leuctra",
+  "confidence": "high",
+  "note": "Broke Spartan power at Leuctra.",
+  "passages": [
+   {
+    "life": "epaminondas",
+    "chapter": 6
+   },
+   {
+    "life": "epaminondas",
+    "chapter": 8
+   }
+  ],
+  "date": {
+   "year": -371,
+   "label": "371 BC"
+  }
+ },
+ {
+  "id": "a-epa-3",
+  "subject": "epaminondas",
+  "topic": "travel",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Invaded the Peloponnese and marched to the gates of Sparta itself.",
+  "passages": [
+   {
+    "life": "epaminondas",
+    "chapter": 8
+   }
+  ],
+  "date": {
+   "year": -370,
+   "label": "370 BC"
+  }
+ },
+ {
+  "id": "a-epa-4",
+  "subject": "epaminondas",
+  "topic": "death",
+  "place": "mantinea",
+  "confidence": "high",
+  "note": "Mortally wounded at Mantinea; died on hearing the Boeotians had won.",
+  "passages": [
+   {
+    "life": "epaminondas",
+    "chapter": 9
+   }
+  ]
+ },
+ {
+  "id": "a-pel-1",
+  "subject": "pelopidas",
+  "topic": "birth",
+  "place": "thebes",
+  "confidence": "high",
+  "note": "Pelopidas Thebanus.",
+  "passages": [
+   {
+    "life": "pelopidas",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-pel-2",
+  "subject": "pelopidas",
+  "topic": "exile",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Fled to Athens when the Spartans seized the Cadmea.",
+  "passages": [
+   {
+    "life": "pelopidas",
+    "chapter": 1
+   },
+   {
+    "life": "pelopidas",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -382,
+   "label": "382 BC"
+  }
+ },
+ {
+  "id": "a-pel-3",
+  "subject": "pelopidas",
+  "topic": "travel",
+  "place": "thebes",
+  "confidence": "high",
+  "note": "Returned in disguise and liberated Thebes from the tyrants.",
+  "passages": [
+   {
+    "life": "pelopidas",
+    "chapter": 2
+   },
+   {
+    "life": "pelopidas",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -379,
+   "label": "379 BC"
+  }
+ },
+ {
+  "id": "a-pel-4",
+  "subject": "pelopidas",
+  "topic": "death",
+  "place": "thessaly",
+  "confidence": "medium",
+  "note": "Fell at Cynoscephalae in Thessaly charging Alexander of Pherae.",
+  "passages": [
+   {
+    "life": "pelopidas",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "a-age-1",
+  "subject": "agesilaus",
+  "topic": "birth",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Agesilaus Lacedaemonius, king of Sparta.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-age-2",
+  "subject": "agesilaus",
+  "topic": "travel",
+  "place": "asia-minor",
+  "confidence": "high",
+  "note": "Campaigned in Asia against Tissaphernes, outwitting his perjury.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 2
+   },
+   {
+    "life": "agesilaus",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -396,
+   "label": "396 BC"
+  }
+ },
+ {
+  "id": "a-age-3",
+  "subject": "agesilaus",
+  "topic": "travel",
+  "place": "egypt",
+  "confidence": "high",
+  "note": "In old age served king Nectanebo in Egypt for pay.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 8
+   }
+  ],
+  "date": {
+   "year": -361,
+   "label": "c. 361 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-age-4",
+  "subject": "agesilaus",
+  "topic": "death",
+  "place": "cyrene",
+  "confidence": "high",
+  "note": "Died on the voyage home at the Harbor of Menelaus; his body was carried to Sparta in wax.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 8
+   }
+  ]
+ },
+ {
+  "id": "a-eum-1",
+  "subject": "eumenes",
+  "topic": "birth",
+  "place": "cardia",
+  "confidence": "high",
+  "note": "Eumenes Cardianus: a Greek among Macedonians, which always told against him.",
+  "passages": [
+   {
+    "life": "eumenes",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-eum-2",
+  "subject": "eumenes",
+  "topic": "residence",
+  "place": "macedon",
+  "confidence": "high",
+  "note": "Secretary and confidant of Philip and Alexander for twenty years.",
+  "passages": [
+   {
+    "life": "eumenes",
+    "chapter": 1
+   }
+  ],
+  "range": {
+   "startYear": -343,
+   "endYear": -323,
+   "label": "343–323 BC"
+  }
+ },
+ {
+  "id": "a-eum-3",
+  "subject": "eumenes",
+  "topic": "travel",
+  "place": "cappadocia",
+  "confidence": "high",
+  "note": "Received Cappadocia in the division of the empire and made it his base.",
+  "passages": [
+   {
+    "life": "eumenes",
+    "chapter": 2
+   },
+   {
+    "life": "eumenes",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -323,
+   "label": "323 BC"
+  }
+ },
+ {
+  "id": "a-eum-4",
+  "subject": "eumenes",
+  "topic": "death",
+  "place": "gabiene",
+  "confidence": "high",
+  "note": "Betrayed by the Silver Shields after Gabiene and killed in Antigonus' custody.",
+  "passages": [
+   {
+    "life": "eumenes",
+    "chapter": 10
+   },
+   {
+    "life": "eumenes",
+    "chapter": 12
+   }
+  ]
+ },
+ {
+  "id": "a-pho-1",
+  "subject": "phocion",
+  "topic": "birth",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Phocion Atheniensis: called The Good.",
+  "passages": [
+   {
+    "life": "phocion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-pho-2",
+  "subject": "phocion",
+  "topic": "death",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Condemned by the restored democracy, drank the hemlock at eighty; buried at first outside Attica.",
+  "passages": [
+   {
+    "life": "phocion",
+    "chapter": 3
+   },
+   {
+    "life": "phocion",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "a-tio-1",
+  "subject": "timoleon",
+  "topic": "birth",
+  "place": "corinth",
+  "confidence": "high",
+  "note": "Timoleon Corinthius.",
+  "passages": [
+   {
+    "life": "timoleon",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-tio-2",
+  "subject": "timoleon",
+  "topic": "travel",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Sent to Sicily, expelled Dionysius, and refounded Syracuse.",
+  "passages": [
+   {
+    "life": "timoleon",
+    "chapter": 2
+   },
+   {
+    "life": "timoleon",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -344,
+   "label": "344 BC"
+  }
+ },
+ {
+  "id": "a-tio-3",
+  "subject": "timoleon",
+  "topic": "residence",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Laid down power but remained at Syracuse, blind and revered, to the end.",
+  "passages": [
+   {
+    "life": "timoleon",
+    "chapter": 3
+   },
+   {
+    "life": "timoleon",
+    "chapter": 4
+   }
+  ],
+  "date": {
+   "year": -337,
+   "label": "c. 337 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-tio-4",
+  "subject": "timoleon",
+  "topic": "death",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Died at Syracuse and was buried at public expense.",
+  "passages": [
+   {
+    "life": "timoleon",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "a-ham-1",
+  "subject": "hamilcar",
+  "topic": "birth",
+  "place": "carthage",
+  "confidence": "high",
+  "note": "Hamilcar, cognomine Barca, Karthaginiensis.",
+  "passages": [
+   {
+    "life": "hamilcar",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-ham-2",
+  "subject": "hamilcar",
+  "topic": "travel",
+  "place": "sicily",
+  "confidence": "high",
+  "note": "Commanded in Sicily at the end of the First Punic War, undefeated on Eryx.",
+  "passages": [
+   {
+    "life": "hamilcar",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -244,
+   "label": "c. 244 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-ham-3",
+  "subject": "hamilcar",
+  "topic": "travel",
+  "place": "spain",
+  "confidence": "high",
+  "note": "Crossed to Hispania with his army, and with the nine-year-old Hannibal.",
+  "passages": [
+   {
+    "life": "hamilcar",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -237,
+   "label": "237 BC"
+  }
+ },
+ {
+  "id": "a-ham-4",
+  "subject": "hamilcar",
+  "topic": "death",
+  "place": "spain",
+  "confidence": "high",
+  "note": "Fell in battle against the Vettones in Hispania.",
+  "passages": [
+   {
+    "life": "hamilcar",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "a-han-1",
+  "subject": "hannibal",
+  "topic": "birth",
+  "place": "carthage",
+  "confidence": "high",
+  "note": "Hannibal, Hamilcaris filius, Karthaginiensis.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-han-2",
+  "subject": "hannibal",
+  "topic": "residence",
+  "place": "spain",
+  "confidence": "high",
+  "note": "Raised in his father's camp in Hispania; sworn eternal enmity to Rome at the altar.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 2
+   },
+   {
+    "life": "hannibal",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -237,
+   "label": "c. 237 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-han-3",
+  "subject": "hannibal",
+  "topic": "travel",
+  "place": "cannae",
+  "confidence": "high",
+  "note": "Crossed the Alps into Italy; Cannae the greatest of his victories.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 3
+   },
+   {
+    "life": "hannibal",
+    "chapter": 4
+   },
+   {
+    "life": "hannibal",
+    "chapter": 5
+   }
+  ],
+  "date": {
+   "year": -216,
+   "label": "216 BC"
+  }
+ },
+ {
+  "id": "a-han-4",
+  "subject": "hannibal",
+  "topic": "travel",
+  "place": "zama",
+  "confidence": "high",
+  "note": "Recalled to Africa; defeated by Scipio near Zama.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 6
+   }
+  ],
+  "date": {
+   "year": -202,
+   "label": "202 BC"
+  }
+ },
+ {
+  "id": "a-han-5",
+  "subject": "hannibal",
+  "topic": "exile",
+  "place": "syria",
+  "confidence": "high",
+  "note": "Fled Carthage secretly by ship to Antiochus in Syria, then wandered court to court.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 7
+   },
+   {
+    "life": "hannibal",
+    "chapter": 8
+   },
+   {
+    "life": "hannibal",
+    "chapter": 9
+   }
+  ],
+  "date": {
+   "year": -195,
+   "label": "195 BC"
+  }
+ },
+ {
+  "id": "a-han-6",
+  "subject": "hannibal",
+  "topic": "death",
+  "place": "libyssa",
+  "confidence": "high",
+  "note": "Took poison at Libyssa in Bithynia rather than be surrendered to Rome.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 12
+   },
+   {
+    "life": "hannibal",
+    "chapter": 13
+   }
+  ]
+ },
+ {
+  "id": "a-cat-1",
+  "subject": "cato",
+  "topic": "birth",
+  "place": "tusculum",
+  "confidence": "high",
+  "note": "M. Cato, ortus municipio Tusculo.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-cat-2",
+  "subject": "cato",
+  "topic": "residence",
+  "place": "rome",
+  "confidence": "high",
+  "note": "Urged to Rome by L. Valerius Flaccus; rose through every office to the censorship.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 1
+   },
+   {
+    "life": "cato",
+    "chapter": 2
+   }
+  ],
+  "range": {
+   "startYear": -204,
+   "endYear": -184,
+   "label": "204–184 BC"
+  }
+ },
+ {
+  "id": "a-cat-3",
+  "subject": "cato",
+  "topic": "travel",
+  "place": "spain",
+  "confidence": "high",
+  "note": "As consul held Hispania Citerior and triumphed from it.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -195,
+   "label": "195 BC"
+  }
+ },
+ {
+  "id": "a-cat-4",
+  "subject": "cato",
+  "topic": "death",
+  "place": "rome",
+  "confidence": "medium",
+  "note": "Died at eighty-five, still prosecuting and writing, the Origines in hand.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "a-att-1",
+  "subject": "atticus",
+  "topic": "birth",
+  "place": "rome",
+  "confidence": "high",
+  "note": "T. Pomponius Atticus, ab origine ultima stirpis Romanae generatus.",
+  "passages": [
+   {
+    "life": "atticus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-att-2",
+  "subject": "atticus",
+  "topic": "residence",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Removed to Athens during the civil strife; so beloved the city offered him citizenship.",
+  "passages": [
+   {
+    "life": "atticus",
+    "chapter": 2
+   },
+   {
+    "life": "atticus",
+    "chapter": 3
+   }
+  ],
+  "date": {
+   "year": -85,
+   "label": "85 BC"
+  }
+ },
+ {
+  "id": "a-att-3",
+  "subject": "atticus",
+  "topic": "residence",
+  "place": "epirus",
+  "confidence": "high",
+  "note": "Kept his estate at Buthrotum in Epirus.",
+  "passages": [
+   {
+    "life": "atticus",
+    "chapter": 14
+   }
+  ],
+  "range": {
+   "startYear": -68,
+   "endYear": -32,
+   "label": "c. 68–32 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "a-att-4",
+  "subject": "atticus",
+  "topic": "residence",
+  "place": "rome",
+  "confidence": "high",
+  "note": "Returned to Rome; friend of Cicero, Hortensius, and later Octavian, of no party.",
+  "passages": [
+   {
+    "life": "atticus",
+    "chapter": 4
+   },
+   {
+    "life": "atticus",
+    "chapter": 12
+   }
+  ],
+  "date": {
+   "year": -65,
+   "label": "65 BC"
+  }
+ },
+ {
+  "id": "a-att-5",
+  "subject": "atticus",
+  "topic": "death",
+  "place": "rome",
+  "confidence": "high",
+  "note": "Facing incurable illness, ended his life by voluntary starvation at seventy-seven.",
+  "passages": [
+   {
+    "life": "atticus",
+    "chapter": 21
+   },
+   {
+    "life": "atticus",
+    "chapter": 22
+   }
+  ]
+ },
+ {
+  "id": "r-kin-1",
+  "subject": "cimon",
+  "topic": "kinship",
+  "object": "miltiades",
+  "relation": "son of",
+  "confidence": "high",
+  "note": "Cimon, Miltiadis filius: son of Miltiades; paid his father's fine to recover his body for burial.",
+  "passages": [
+   {
+    "life": "cimon",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-2",
+  "subject": "hannibal",
+  "topic": "kinship",
+  "object": "hamilcar",
+  "relation": "son of",
+  "confidence": "high",
+  "note": "Hannibal, Hamilcaris filius: taken to Hispania at nine and sworn at his father's altar to eternal enmity with Rome.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 1
+   },
+   {
+    "life": "hamilcar",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-kin-3",
+  "subject": "timotheus",
+  "topic": "kinship",
+  "object": "conon",
+  "relation": "son of",
+  "confidence": "high",
+  "note": "Timotheus, Cononis filius: added his own glory to the fame inherited from his father.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-4",
+  "subject": "apollocrates",
+  "topic": "kinship",
+  "object": "dionysius-ii",
+  "relation": "son of",
+  "confidence": "medium",
+  "note": "In the peace pact Syracuse was to go to Apollocrates, 'cui maximam fidem uni habebat': the one man Dionysius trusted most: his eldest son, left in charge of the citadel.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "r-kin-5",
+  "subject": "dionysius-i",
+  "topic": "kinship",
+  "object": "dion",
+  "relation": "brother-in-law of",
+  "confidence": "high",
+  "note": "Dionysius the Elder married Aristomache, Dion's sister ('Dionysius prior ... Aristomachen, sororem Dionis, duxit uxorem'), binding Dion into the tyrant's house.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-6",
+  "subject": "dionysius-i",
+  "topic": "kinship",
+  "object": "dionysius-ii",
+  "relation": "father of",
+  "confidence": "high",
+  "note": "By Aristomache Dionysius the Elder had two daughters, Sophrosyne and Arete; Sophrosyne he gave in marriage to his son Dionysius, the younger tyrant who succeeded him.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-7",
+  "subject": "dion",
+  "topic": "kinship",
+  "object": "dionysius-i",
+  "relation": "son-in-law of",
+  "confidence": "high",
+  "note": "Dionysius the Elder gave his daughter Arete, Dion's own niece by Aristomache, to Dion in marriage: 'alteram, Areten, Dioni'.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-8",
+  "subject": "aristomache",
+  "topic": "kinship",
+  "object": "dionysius-i",
+  "relation": "wife of",
+  "confidence": "high",
+  "note": "'Dionysius prior ... Aristomachen, sororem Dionis, duxit uxorem': Dionysius the Elder married Aristomache, Dion's sister.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-9",
+  "subject": "aristomache",
+  "topic": "kinship",
+  "object": "dion",
+  "relation": "sister of",
+  "confidence": "high",
+  "note": "Aristomache was Dion's sister ('Aristomachen, sororem Dionis'), the marriage that bound Dion into the tyrant's house.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-10",
+  "subject": "sophrosyne",
+  "topic": "kinship",
+  "object": "dionysius-i",
+  "relation": "daughter of",
+  "confidence": "high",
+  "note": "By Aristomache Dionysius the Elder had two daughters, Sophrosyne and Arete: 'ex qua duas filias habuit, Sophrosynen et Areten'.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-11",
+  "subject": "sophrosyne",
+  "topic": "kinship",
+  "object": "dionysius-ii",
+  "relation": "wife of",
+  "confidence": "high",
+  "note": "Sophrosyne was given in marriage to Dionysius the Younger ('quarum priorem Dionysio filio ... conlocavit'), wedding half-siblings within the tyrant's house.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-12",
+  "subject": "arete",
+  "topic": "kinship",
+  "object": "dionysius-i",
+  "relation": "daughter of",
+  "confidence": "high",
+  "note": "Arete was the second daughter of Dionysius the Elder by Aristomache: 'ex qua duas filias habuit, Sophrosynen et Areten'.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-kin-13",
+  "subject": "arete",
+  "topic": "kinship",
+  "object": "dion",
+  "relation": "wife of",
+  "confidence": "high",
+  "note": "Dionysius gave Arete, Dion's own niece by Aristomache, to Dion in marriage: 'alteram, Areten, Dioni'.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "a-apo-1",
+  "subject": "apollocrates",
+  "topic": "residence",
+  "place": "syracuse",
+  "confidence": "high",
+  "note": "Held the citadel and island quarter of Syracuse for the tyrant's house while Dion controlled the rest of the city.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 5
+   }
+  ],
+  "date": {
+   "year": -356,
+   "label": "c. 356 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "r-con-0",
+  "subject": "dion",
+  "topic": "contemporaryOf",
+  "object": "dionysius-ii",
+  "relation": "expelled",
+  "confidence": "high",
+  "note": "Within three days of reaching Sicily Dion took Syracuse, broke the fifty-year tyranny, and drove Dionysius II from all but the citadel; by the pact Dionysius withdrew to Italy.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 5
+   }
+  ]
+ },
+ {
+  "id": "r-con-1",
+  "subject": "themistocles",
+  "topic": "contemporaryOf",
+  "object": "aristides",
+  "relation": "rival of",
+  "confidence": "high",
+  "note": "Rivals for the leadership of Athens; Aristides was ostracized largely through the faction of Themistocles.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-con-2",
+  "subject": "aristides",
+  "topic": "contemporaryOf",
+  "object": "pausanias",
+  "relation": "colleague of",
+  "confidence": "high",
+  "note": "Shared the command with Pausanias in the campaign that drove Mardonius from Greece; under him the naval hegemony passed to Athens.",
+  "passages": [
+   {
+    "life": "aristides",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "id": "r-con-3",
+  "subject": "themistocles",
+  "topic": "contemporaryOf",
+  "object": "pausanias",
+  "relation": "implicated with",
+  "confidence": "medium",
+  "note": "When Pausanias' treasonous letters were discovered, the Spartans alleged Themistocles shared his medizing designs (reported assertion).",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 8
+   },
+   {
+    "life": "pausanias",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-con-4",
+  "subject": "alcibiades",
+  "topic": "contemporaryOf",
+  "object": "thrasybulus",
+  "relation": "colleague of",
+  "confidence": "high",
+  "note": "Joined Thrasybulus' fleet and with him won the victories at Cyzicus and on the Hellespont.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 5
+   },
+   {
+    "life": "thrasybulus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-con-5",
+  "subject": "lysander",
+  "topic": "contemporaryOf",
+  "object": "alcibiades",
+  "relation": "opponent of",
+  "confidence": "high",
+  "note": "Alcibiades warned the Athenian generals before Aegospotami; ignored, they lost the fleet to Lysander.",
+  "passages": [
+   {
+    "life": "alcibiades",
+    "chapter": 8
+   },
+   {
+    "life": "lysander",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-con-6",
+  "subject": "lysander",
+  "topic": "contemporaryOf",
+  "object": "agesilaus",
+  "relation": "patron of",
+  "confidence": "high",
+  "note": "Through Lysander's backing Agesilaus obtained the kingship over Leotychides.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-con-7",
+  "subject": "conon",
+  "topic": "contemporaryOf",
+  "object": "agesilaus",
+  "relation": "opponent of",
+  "confidence": "medium",
+  "note": "Conon's victory at Cnidus with the Persian fleet undid the Spartan sea power Agesilaus fought to sustain in Asia.",
+  "passages": [
+   {
+    "life": "conon",
+    "chapter": 4
+   },
+   {
+    "life": "agesilaus",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-con-8",
+  "subject": "epaminondas",
+  "topic": "contemporaryOf",
+  "object": "pelopidas",
+  "relation": "colleague of",
+  "confidence": "high",
+  "note": "The closest of colleagues; together they liberated Thebes and broke the power of Sparta.",
+  "passages": [
+   {
+    "life": "pelopidas",
+    "chapter": 3
+   },
+   {
+    "life": "epaminondas",
+    "chapter": 7
+   }
+  ]
+ },
+ {
+  "id": "r-con-9",
+  "subject": "epaminondas",
+  "topic": "contemporaryOf",
+  "object": "agesilaus",
+  "relation": "opponent of",
+  "confidence": "high",
+  "note": "Marched to the gates of Sparta itself; Agesilaus' defense of the city checked him.",
+  "passages": [
+   {
+    "life": "epaminondas",
+    "chapter": 8
+   },
+   {
+    "life": "agesilaus",
+    "chapter": 6
+   }
+  ]
+ },
+ {
+  "id": "r-con-10",
+  "subject": "iphicrates",
+  "topic": "contemporaryOf",
+  "object": "timotheus",
+  "relation": "co-defendant of",
+  "confidence": "high",
+  "note": "Prosecuted together after the Social War; Iphicrates was acquitted, Timotheus condemned.",
+  "passages": [
+   {
+    "life": "timotheus",
+    "chapter": 3
+   },
+   {
+    "life": "iphicrates",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-con-11",
+  "subject": "chabrias",
+  "topic": "contemporaryOf",
+  "object": "timotheus",
+  "relation": "colleague of",
+  "confidence": "high",
+  "note": "Fellow Athenian commanders of the same generation, entangled in the same Social War.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 3
+   },
+   {
+    "life": "timotheus",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-con-12",
+  "subject": "iphicrates",
+  "topic": "contemporaryOf",
+  "object": "chabrias",
+  "relation": "colleague of",
+  "confidence": "medium",
+  "note": "The great Athenian captains of the age between Conon and Phocion, named together by Nepos.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-con-13",
+  "subject": "chabrias",
+  "topic": "contemporaryOf",
+  "object": "agesilaus",
+  "relation": "fellow campaigner",
+  "confidence": "medium",
+  "note": "Both served the Egyptian kings for pay: Chabrias of his own accord, Agesilaus by public commission.",
+  "passages": [
+   {
+    "life": "chabrias",
+    "chapter": 2
+   },
+   {
+    "life": "agesilaus",
+    "chapter": 8
+   }
+  ]
+ },
+ {
+  "id": "r-con-14",
+  "subject": "dion",
+  "topic": "contemporaryOf",
+  "object": "timoleon",
+  "relation": "predecessor of",
+  "confidence": "medium",
+  "note": "Dion first broke the tyranny at Syracuse; a decade later Timoleon expelled Dionysius for good and refounded the city.",
+  "passages": [
+   {
+    "life": "dion",
+    "chapter": 5
+   },
+   {
+    "life": "timoleon",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "id": "r-con-15",
+  "subject": "cato",
+  "topic": "contemporaryOf",
+  "object": "hannibal",
+  "relation": "opponent of",
+  "confidence": "high",
+  "note": "Cato served as military tribune in the war against Hannibal, the enemy whose defeat shaped his whole politics.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "r-con-16",
+  "subject": "miltiades",
+  "topic": "contemporaryOf",
+  "object": "themistocles",
+  "relation": "predecessor of",
+  "confidence": "medium",
+  "note": "Marathon and Salamis: the two deliverances of Greece, one generation apart, joined by Nepos' own comparison.",
+  "passages": [
+   {
+    "life": "themistocles",
+    "chapter": 3
+   }
+  ]
+ },
+ {
+  "id": "r-off-1",
+  "subject": "agesilaus",
+  "topic": "office",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Made king of Sparta over Leotychides, through the influence of Lysander.",
+  "passages": [
+   {
+    "life": "agesilaus",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -398,
+   "label": "398 BC"
+  }
+ },
+ {
+  "id": "r-off-2",
+  "subject": "cato",
+  "topic": "office",
+  "place": "rome",
+  "confidence": "high",
+  "note": "Rose through every magistracy: consul with Flaccus, and censor of proverbial severity.",
+  "passages": [
+   {
+    "life": "cato",
+    "chapter": 2
+   }
+  ],
+  "date": {
+   "year": -184,
+   "label": "184 BC"
+  }
+ },
+ {
+  "id": "r-off-3",
+  "subject": "phocion",
+  "topic": "office",
+  "place": "athens",
+  "confidence": "high",
+  "note": "Held the Athenian generalship forty-five times without ever canvassing for it.",
+  "passages": [
+   {
+    "life": "phocion",
+    "chapter": 1
+   }
+  ],
+  "range": {
+   "startYear": -371,
+   "endYear": -318,
+   "label": "c. 371–318 BC",
+   "approx": true
+  }
+ },
+ {
+  "id": "r-off-4",
+  "subject": "hannibal",
+  "topic": "office",
+  "place": "carthage",
+  "confidence": "high",
+  "note": "Commander-in-chief of the Carthaginian armies at twenty-five; later chosen king (suffete) at home.",
+  "passages": [
+   {
+    "life": "hannibal",
+    "chapter": 3
+   },
+   {
+    "life": "hannibal",
+    "chapter": 7
+   }
+  ],
+  "date": {
+   "year": -221,
+   "label": "221 BC"
+  }
+ },
+ {
+  "id": "r-off-5",
+  "subject": "eumenes",
+  "topic": "office",
+  "place": "macedon",
+  "confidence": "high",
+  "note": "Secretary (scriba) to Philip and to Alexander, an office of honor among Greeks, held for twenty years.",
+  "passages": [
+   {
+    "life": "eumenes",
+    "chapter": 1
+   }
+  ],
+  "range": {
+   "startYear": -343,
+   "endYear": -323,
+   "label": "343–323 BC"
+  }
+ },
+ {
+  "id": "r-off-6",
+  "subject": "pausanias",
+  "topic": "office",
+  "place": "sparta",
+  "confidence": "high",
+  "note": "Regent of Sparta and commander of the allied Greeks after the Persian invasion.",
+  "passages": [
+   {
+    "life": "pausanias",
+    "chapter": 1
+   }
+  ],
+  "date": {
+   "year": -478,
+   "label": "478 BC"
+  }
+ }
+]

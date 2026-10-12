@@ -1,0 +1,450 @@
+{
+  "Q1006561": {
+    "label": "Decelea",
+    "dbpedia": "Decelea"
+  },
+  "Q1022117": {
+    "label": "Messene",
+    "dbpedia": "Messene"
+  },
+  "Q103011": {
+    "label": "Corinth",
+    "dbpedia": "Corinth_(modern_city)"
+  },
+  "Q1141669": {
+    "label": "Olynthus",
+    "dbpedia": "Olynthus"
+  },
+  "Q1160195": {
+    "label": "Mantineia",
+    "dbpedia": "Mantinea"
+  },
+  "Q11768": {
+    "label": "Ancient Egypt",
+    "dbpedia": "Ancient_Egypt"
+  },
+  "Q11772": {
+    "label": "Ancient Greece",
+    "dbpedia": "Ancient_Greece"
+  },
+  "Q1192701": {
+    "label": "Thrace",
+    "dbpedia": "Western_Thrace"
+  },
+  "Q1195800": {
+    "label": "Myus",
+    "dbpedia": "Myus"
+  },
+  "Q121378": {
+    "label": "Corfu",
+    "dbpedia": "Corfu"
+  },
+  "Q122443": {
+    "label": "Attica",
+    "dbpedia": "Attica"
+  },
+  "Q12431": {
+    "label": "Pyrenees",
+    "dbpedia": "Pyrenees"
+  },
+  "Q124925": {
+    "label": "Senigallia",
+    "dbpedia": "Senigallia"
+  },
+  "Q126084": {
+    "label": "Acre",
+    "dbpedia": "Acre,_Israel"
+  },
+  "Q1276854": {
+    "label": "Cadmea of Thebes",
+    "dbpedia": "Cadmea"
+  },
+  "Q128087": {
+    "label": "Lesbos",
+    "dbpedia": "Lesbos"
+  },
+  "Q1286": {
+    "label": "Alps",
+    "dbpedia": "Alps"
+  },
+  "Q12898802": {
+    "label": "Arcadia",
+    "dbpedia": "Arcadia_(region)"
+  },
+  "Q13415123": {
+    "label": "Syria",
+    "dbpedia": "Syria_(region)"
+  },
+  "Q13498": {
+    "label": "Taranto",
+    "dbpedia": "Taranto"
+  },
+  "Q13670": {
+    "label": "Syracuse",
+    "dbpedia": "Syracuse,_Sicily"
+  },
+  "Q1432674": {
+    "label": "Magnesia on the Maeander",
+    "dbpedia": "Magnesia_on_the_Maeander"
+  },
+  "Q1447": {
+    "label": "Apulia",
+    "dbpedia": "Apulia"
+  },
+  "Q1453755": {
+    "label": "Fregellae",
+    "dbpedia": "Fregellae"
+  },
+  "Q145694": {
+    "label": "Italian Peninsula",
+    "dbpedia": "Italian_Peninsula"
+  },
+  "Q1460": {
+    "label": "Sicily",
+    "dbpedia": "Sicily"
+  },
+  "Q1462": {
+    "label": "Sardinia",
+    "dbpedia": "Sardinia"
+  },
+  "Q15": {
+    "label": "Africa",
+    "dbpedia": "Africa"
+  },
+  "Q1524": {
+    "label": "Athens",
+    "dbpedia": "Athens"
+  },
+  "Q156882": {
+    "label": "Samos",
+    "dbpedia": "Samos"
+  },
+  "Q160483": {
+    "label": "Chios",
+    "dbpedia": "Chios"
+  },
+  "Q1611219": {
+    "label": "Munichia",
+    "dbpedia": "Munichia"
+  },
+  "Q1653": {
+    "label": "Danube",
+    "dbpedia": "Danube"
+  },
+  "Q166523": {
+    "label": "Utica",
+    "dbpedia": "Utica,_Tunisia"
+  },
+  "Q166919": {
+    "label": "Thessaly",
+    "dbpedia": "Thessaly"
+  },
+  "Q172556": {
+    "label": "Taurus mountains",
+    "dbpedia": "Taurus_Mountains"
+  },
+  "Q173096": {
+    "label": "Euboea",
+    "dbpedia": "Euboea"
+  },
+  "Q173148": {
+    "label": "Delos",
+    "dbpedia": "Delos"
+  },
+  "Q186513": {
+    "label": "Hispania",
+    "dbpedia": "Hispania"
+  },
+  "Q188527": {
+    "label": "Naxos Island",
+    "dbpedia": "Naxos"
+  },
+  "Q1892445": {
+    "label": "Zama Regia",
+    "dbpedia": "Zama_(Tunisia)"
+  },
+  "Q189901": {
+    "label": null,
+    "dbpedia": "Argos,_Peloponnese"
+  },
+  "Q192483": {
+    "label": "Lemnos",
+    "dbpedia": "Lemnos"
+  },
+  "Q193214": {
+    "label": "Caria",
+    "dbpedia": "Caria"
+  },
+  "Q194450": {
+    "label": "Thermopylae",
+    "dbpedia": "Thermopylae"
+  },
+  "Q200133": {
+    "label": "Chalkída",
+    "dbpedia": "Chalcis"
+  },
+  "Q201272": {
+    "label": "Paros",
+    "dbpedia": "Paros"
+  },
+  "Q202422": {
+    "label": "Salamis Island",
+    "dbpedia": "Salamis_Island"
+  },
+  "Q203175": {
+    "label": "Samothrace",
+    "dbpedia": "Samothrace"
+  },
+  "Q204127": {
+    "label": "Struma",
+    "dbpedia": "Struma_(river)"
+  },
+  "Q204905": {
+    "label": "Elefsina",
+    "dbpedia": "Elefsina"
+  },
+  "Q206730": {
+    "label": "Etruria",
+    "dbpedia": "Etruria"
+  },
+  "Q212150": {
+    "label": "Marathon",
+    "dbpedia": "Marathon,_Greece"
+  },
+  "Q217265": {
+    "label": "Cappadocia",
+    "dbpedia": "Cappadocia"
+  },
+  "Q217667": {
+    "label": "Elis",
+    "dbpedia": "Elis_(city)"
+  },
+  "Q220": {
+    "label": "Rome",
+    "dbpedia": "Rome"
+  },
+  "Q2275983": {
+    "label": "Eryx",
+    "dbpedia": "Eryx_(city)"
+  },
+  "Q229": {
+    "label": "Cyprus",
+    "dbpedia": "Cyprus"
+  },
+  "Q232615": {
+    "label": "Sardis",
+    "dbpedia": "Sardis"
+  },
+  "Q23725": {
+    "label": "Byzantium",
+    "dbpedia": "Byzantium"
+  },
+  "Q2454671": {
+    "label": "Troad",
+    "dbpedia": "Troad"
+  },
+  "Q255325": {
+    "label": "Aeolis",
+    "dbpedia": "Aeolis"
+  },
+  "Q2606004": {
+    "label": "Leuctra",
+    "dbpedia": "Lefktra"
+  },
+  "Q2736539": {
+    "label": "Hadrumetum",
+    "dbpedia": "Hadrumetum"
+  },
+  "Q279": {
+    "label": "Modena",
+    "dbpedia": "Modena"
+  },
+  "Q3136685": {
+    "label": "ancient Capua",
+    "dbpedia": "Ancient_Capua"
+  },
+  "Q320367": {
+    "label": "Eretria",
+    "dbpedia": "Eretria"
+  },
+  "Q32579": {
+    "label": "Phrygia",
+    "dbpedia": "Phrygia"
+  },
+  "Q34374": {
+    "label": "Crete",
+    "dbpedia": "Crete"
+  },
+  "Q34925": {
+    "label": "Capitoline Hill",
+    "dbpedia": "Capitoline_Hill"
+  },
+  "Q3555938": {
+    "label": "Cataonia",
+    "dbpedia": "Cataonia"
+  },
+  "Q359627": {
+    "label": "Haliartos",
+    "dbpedia": "Haliartus"
+  },
+  "Q368628": {
+    "label": "Sicyon",
+    "dbpedia": "Sicyon"
+  },
+  "Q373189": {
+    "label": "Bithynia",
+    "dbpedia": "Bithynia"
+  },
+  "Q3774282": {
+    "label": "Thracian Chersonese",
+    "dbpedia": "Thracian_Chersonese"
+  },
+  "Q38060": {
+    "label": "Gaul",
+    "dbpedia": "Gaul"
+  },
+  "Q3853673": {
+    "label": "Media",
+    "dbpedia": "Media_(region)"
+  },
+  "Q38888": {
+    "label": "Olympia",
+    "dbpedia": "Olympia,_Greece"
+  },
+  "Q389688": {
+    "label": "Achaemenid Empire",
+    "dbpedia": "Achaemenid_Empire"
+  },
+  "Q404513": {
+    "label": "Aegospotami",
+    "dbpedia": "Aegospotami"
+  },
+  "Q41581937": {
+    "label": "Pydna",
+    "dbpedia": "Ancient_Pydna"
+  },
+  "Q44112": {
+    "label": "Cyrene",
+    "dbpedia": "Cyrene,_Libya"
+  },
+  "Q46": {
+    "label": "Europe",
+    "dbpedia": "Europe"
+  },
+  "Q47611": {
+    "label": "Ephesus",
+    "dbpedia": "Ephesus"
+  },
+  "Q51614": {
+    "label": "Anatolia",
+    "dbpedia": "Anatolia"
+  },
+  "Q565751": {
+    "label": "Epirus",
+    "dbpedia": "Epirus"
+  },
+  "Q568611": {
+    "label": "Cannae",
+    "dbpedia": "Cannae"
+  },
+  "Q5690": {
+    "label": "Sparta",
+    "dbpedia": "Sparta"
+  },
+  "Q5760": {
+    "label": "Thebes",
+    "dbpedia": "Thebes,_Greece"
+  },
+  "Q593295": {
+    "label": "Koroneia",
+    "dbpedia": "Coroneia_(Boeotia)"
+  },
+  "Q602": {
+    "label": "Rhône",
+    "dbpedia": "Rhône"
+  },
+  "Q615449": {
+    "label": "Cyzicus",
+    "dbpedia": "Cyzicus"
+  },
+  "Q620765": {
+    "label": "Lydia",
+    "dbpedia": "Lydia"
+  },
+  "Q620864": {
+    "label": "Cilicia",
+    "dbpedia": "Cilicia"
+  },
+  "Q620874": {
+    "label": "Ionia",
+    "dbpedia": "Ionia"
+  },
+  "Q621672": {
+    "label": "Pontus",
+    "dbpedia": "Pontus_(region)"
+  },
+  "Q622032": {
+    "label": "Paphlagonia",
+    "dbpedia": "Paphlagonia"
+  },
+  "Q6343": {
+    "label": "Carthage",
+    "dbpedia": "Carthage"
+  },
+  "Q643": {
+    "label": "Po",
+    "dbpedia": "Po_(river)"
+  },
+  "Q65088659": {
+    "label": "Libyssa",
+    "dbpedia": "Libyssa"
+  },
+  "Q6514": {
+    "label": "Dardanelles",
+    "dbpedia": "Dardanelles"
+  },
+  "Q679305": {
+    "label": "Cyme",
+    "dbpedia": "Cyme_(Aeolis)"
+  },
+  "Q690575": {
+    "label": "Knidos",
+    "dbpedia": "Knidos"
+  },
+  "Q7123145": {
+    "label": "Pactya",
+    "dbpedia": "Pactya"
+  },
+  "Q732587": {
+    "label": "Trebbia",
+    "dbpedia": "Trebbia"
+  },
+  "Q742538": {
+    "label": "Plataea",
+    "dbpedia": "Plataea"
+  },
+  "Q754314": {
+    "label": "Tusculum",
+    "dbpedia": "Tusculum"
+  },
+  "Q75459": {
+    "label": "Delphi",
+    "dbpedia": "Delphi"
+  },
+  "Q78967": {
+    "label": "Peloponnese",
+    "dbpedia": "Peloponnese"
+  },
+  "Q83958": {
+    "label": "Macedonia",
+    "dbpedia": "Macedonia_(ancient_kingdom)"
+  },
+  "Q965581": {
+    "label": "Cardia",
+    "dbpedia": "Cardia_(Thrace)"
+  },
+  "Q969347": {
+    "label": "Gryneion",
+    "dbpedia": "Gryneium"
+  }
+}

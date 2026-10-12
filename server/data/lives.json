@@ -1,0 +1,262 @@
+[
+ {
+  "id": "praefatio",
+  "title": "Praefatio",
+  "displayName": "Praefatio",
+  "polity": null,
+  "birthDate": null,
+  "deathDate": null,
+  "chapters": 8,
+  "assertions": 0
+ },
+ {
+  "id": "miltiades",
+  "title": "Miltiades",
+  "displayName": "Miltiades",
+  "polity": "Athens",
+  "birthDate": "c. 550 BC",
+  "deathDate": "489 BC",
+  "chapters": 8,
+  "assertions": 7
+ },
+ {
+  "id": "themistocles",
+  "title": "Themistocles",
+  "displayName": "Themistocles",
+  "polity": "Athens",
+  "birthDate": "c. 524 BC",
+  "deathDate": "459 BC",
+  "chapters": 10,
+  "assertions": 8
+ },
+ {
+  "id": "aristides",
+  "title": "Aristides",
+  "displayName": "Aristides",
+  "polity": "Athens",
+  "birthDate": "c. 530 BC",
+  "deathDate": "c. 468 BC",
+  "chapters": 3,
+  "assertions": 6
+ },
+ {
+  "id": "pausanias",
+  "title": "Pausanias",
+  "displayName": "Pausanias",
+  "polity": "Sparta",
+  "birthDate": "c. 510 BC",
+  "deathDate": "c. 470 BC",
+  "chapters": 5,
+  "assertions": 5
+ },
+ {
+  "id": "cimon",
+  "title": "Cimon",
+  "displayName": "Cimon",
+  "polity": "Athens",
+  "birthDate": "c. 510 BC",
+  "deathDate": "450 BC",
+  "chapters": 4,
+  "assertions": 5
+ },
+ {
+  "id": "lysander",
+  "title": "Lysander",
+  "displayName": "Lysander",
+  "polity": "Sparta",
+  "birthDate": "c. 454 BC",
+  "deathDate": "395 BC",
+  "chapters": 4,
+  "assertions": 5
+ },
+ {
+  "id": "alcibiades",
+  "title": "Alcibiades",
+  "displayName": "Alcibiades",
+  "polity": "Athens",
+  "birthDate": "c. 450 BC",
+  "deathDate": "404 BC",
+  "chapters": 11,
+  "assertions": 7
+ },
+ {
+  "id": "thrasybulus",
+  "title": "Thrasybulus",
+  "displayName": "Thrasybulus",
+  "polity": "Athens",
+  "birthDate": "c. 440 BC",
+  "deathDate": "388 BC",
+  "chapters": 4,
+  "assertions": 3
+ },
+ {
+  "id": "conon",
+  "title": "Conon",
+  "displayName": "Conon",
+  "polity": "Athens",
+  "birthDate": "c. 444 BC",
+  "deathDate": "c. 389 BC",
+  "chapters": 5,
+  "assertions": 6
+ },
+ {
+  "id": "dion",
+  "title": "Dion",
+  "displayName": "Dion",
+  "polity": "Syracuse",
+  "birthDate": "408 BC",
+  "deathDate": "354 BC",
+  "chapters": 10,
+  "assertions": 7
+ },
+ {
+  "id": "iphicrates",
+  "title": "Iphicrates",
+  "displayName": "Iphicrates",
+  "polity": "Athens",
+  "birthDate": "c. 418 BC",
+  "deathDate": "c. 353 BC",
+  "chapters": 3,
+  "assertions": 6
+ },
+ {
+  "id": "chabrias",
+  "title": "Chabrias",
+  "displayName": "Chabrias",
+  "polity": "Athens",
+  "birthDate": "c. 420 BC",
+  "deathDate": "357 BC",
+  "chapters": 4,
+  "assertions": 5
+ },
+ {
+  "id": "timotheus",
+  "title": "Timotheus",
+  "displayName": "Timotheus",
+  "polity": "Athens",
+  "birthDate": "c. 411 BC",
+  "deathDate": "354 BC",
+  "chapters": 4,
+  "assertions": 5
+ },
+ {
+  "id": "datames",
+  "title": "Datames",
+  "displayName": "Datames",
+  "polity": "Persia",
+  "birthDate": "c. 407 BC",
+  "deathDate": "362 BC",
+  "chapters": 11,
+  "assertions": 4
+ },
+ {
+  "id": "epaminondas",
+  "title": "Epaminondas",
+  "displayName": "Epaminondas",
+  "polity": "Thebes",
+  "birthDate": "c. 418 BC",
+  "deathDate": "362 BC",
+  "chapters": 10,
+  "assertions": 6
+ },
+ {
+  "id": "pelopidas",
+  "title": "Pelopidas",
+  "displayName": "Pelopidas",
+  "polity": "Thebes",
+  "birthDate": "c. 410 BC",
+  "deathDate": "364 BC",
+  "chapters": 5,
+  "assertions": 4
+ },
+ {
+  "id": "agesilaus",
+  "title": "Agesilaus",
+  "displayName": "Agesilaus",
+  "polity": "Sparta",
+  "birthDate": "c. 444 BC",
+  "deathDate": "360 BC",
+  "chapters": 8,
+  "assertions": 5
+ },
+ {
+  "id": "eumenes",
+  "title": "Eumenes",
+  "displayName": "Eumenes",
+  "polity": "Macedon",
+  "birthDate": "c. 362 BC",
+  "deathDate": "316 BC",
+  "chapters": 13,
+  "assertions": 5
+ },
+ {
+  "id": "phocion",
+  "title": "Phocion",
+  "displayName": "Phocion",
+  "polity": "Athens",
+  "birthDate": "c. 402 BC",
+  "deathDate": "318 BC",
+  "chapters": 4,
+  "assertions": 3
+ },
+ {
+  "id": "timoleon",
+  "title": "Timoleon",
+  "displayName": "Timoleon",
+  "polity": "Corinth",
+  "birthDate": "c. 411 BC",
+  "deathDate": "337 BC",
+  "chapters": 5,
+  "assertions": 4
+ },
+ {
+  "id": "de-regibus",
+  "title": "De regibus",
+  "displayName": "De regibus",
+  "polity": null,
+  "birthDate": null,
+  "deathDate": null,
+  "chapters": 3,
+  "assertions": 0
+ },
+ {
+  "id": "hamilcar",
+  "title": "Hamilcar",
+  "displayName": "Hamilcar Barca",
+  "polity": "Carthage",
+  "birthDate": "c. 275 BC",
+  "deathDate": "228 BC",
+  "chapters": 4,
+  "assertions": 4
+ },
+ {
+  "id": "hannibal",
+  "title": "Hannibal",
+  "displayName": "Hannibal",
+  "polity": "Carthage",
+  "birthDate": "247 BC",
+  "deathDate": "183 BC",
+  "chapters": 13,
+  "assertions": 8
+ },
+ {
+  "id": "cato",
+  "title": "Cato",
+  "displayName": "Marcus Porcius Cato",
+  "polity": "Rome",
+  "birthDate": "234 BC",
+  "deathDate": "149 BC",
+  "chapters": 3,
+  "assertions": 6
+ },
+ {
+  "id": "atticus",
+  "title": "Atticus",
+  "displayName": "Titus Pomponius Atticus",
+  "polity": "Rome",
+  "birthDate": "110 BC",
+  "deathDate": "32 BC",
+  "chapters": 22,
+  "assertions": 5
+ }
+]

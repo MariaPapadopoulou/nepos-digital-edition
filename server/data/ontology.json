@@ -1,0 +1,250 @@
+{
+ "name": "Nepos Assertion Ontology",
+ "description": "A formal model in which every biographical claim of the edition is an Assertion: a reified statement linking who asserted it (assertedBy), in which document (assertedIn), about what topic (hasTopic), grounded in which passage of the text (hasSourcePassage), with an explicit confidence value. Adapted from the Laertius assertion model.",
+ "classes": [
+  {
+   "id": "Assertion",
+   "label": "Assertion",
+   "description": "A reified biographical claim. Not a fact about the world, but a statement made by a source, which the edition records together with its provenance and confidence.",
+   "attributes": [
+    {
+     "name": "assertedBy",
+     "range": "Person",
+     "description": "The person making the claim (here: Cornelius Nepos)"
+    },
+    {
+     "name": "assertedIn",
+     "range": "Document",
+     "description": "The document in which the claim is made"
+    },
+    {
+     "name": "hasTopic",
+     "range": "Topic",
+     "description": "What kind of claim this is (birth, residence, travel, death, relationship...)"
+    },
+    {
+     "name": "hasSourcePassage",
+     "range": "Text",
+     "description": "The exact passage of the text that grounds the claim"
+    },
+    {
+     "name": "reportsAssertion",
+     "range": "Assertion",
+     "description": "When Nepos reports what others say (ferunt, dicitur), the inner assertion"
+    },
+    {
+     "name": "confidence",
+     "range": "{ low, medium, high }",
+     "description": "How directly the text supports the claim"
+    }
+   ]
+  },
+  {
+   "id": "Person",
+   "label": "Person",
+   "attributes": [
+    {
+     "name": "name",
+     "range": "value"
+    },
+    {
+     "name": "birthDate",
+     "range": "Value"
+    },
+    {
+     "name": "deathDate",
+     "range": "Value"
+    }
+   ],
+   "subclasses": [
+    "Commander",
+    "NonCommander"
+   ]
+  },
+  {
+   "id": "Commander",
+   "label": "Commander",
+   "parent": "Person",
+   "description": "A subject of one of the Vitae, dux memoria dignus.",
+   "attributes": [
+    {
+     "name": "commandedFor",
+     "range": "Polity"
+    },
+    {
+     "name": "foughtAt",
+     "range": "Place"
+    },
+    {
+     "name": "contemporaryOf",
+     "range": "Commander"
+    }
+   ]
+  },
+  {
+   "id": "NonCommander",
+   "label": "NonCommander",
+   "parent": "Person",
+   "description": "Any other person appearing in the text (fathers, kings, rivals, the author himself)."
+  },
+  {
+   "id": "Polity",
+   "label": "Polity",
+   "description": "A state or people a commander served: Athens, Sparta, Thebes, Carthage, Persia, Rome.",
+   "attributes": [
+    {
+     "name": "locatedAt",
+     "range": "Place"
+    }
+   ]
+  },
+  {
+   "id": "Place",
+   "label": "Place",
+   "description": "A geographic location that can be mapped.",
+   "attributes": [
+    {
+     "name": "name",
+     "range": "value"
+    },
+    {
+     "name": "latinName",
+     "range": "value"
+    },
+    {
+     "name": "coordinates",
+     "range": "value"
+    }
+   ]
+  },
+  {
+   "id": "Document",
+   "label": "Document",
+   "attributes": [
+    {
+     "name": "isRelatedTo",
+     "range": "Person"
+    },
+    {
+     "name": "hasPassage",
+     "range": "Text"
+    }
+   ],
+   "subclasses": [
+    "Book",
+    "Letter",
+    "Anecdote",
+    "Testament"
+   ]
+  },
+  {
+   "id": "Book",
+   "label": "Book",
+   "parent": "Document"
+  },
+  {
+   "id": "Letter",
+   "label": "Letter",
+   "parent": "Document"
+  },
+  {
+   "id": "Anecdote",
+   "label": "Anecdote",
+   "parent": "Document"
+  },
+  {
+   "id": "Testament",
+   "label": "Testament",
+   "parent": "Document"
+  },
+  {
+   "id": "Topic",
+   "label": "Topic",
+   "description": "A flat class: no hierarchy. The kinds of claims the edition tracks.",
+   "instances": [
+    {
+     "id": "birth",
+     "label": "Birth",
+     "description": "Where/when a person was born"
+    },
+    {
+     "id": "residence",
+     "label": "Residence",
+     "description": "Where a person lived or was based"
+    },
+    {
+     "id": "travel",
+     "label": "Travel",
+     "description": "Where a person campaigned, fled, or journeyed"
+    },
+    {
+     "id": "death",
+     "label": "Death",
+     "description": "Where/how a person died"
+    },
+    {
+     "id": "kinship",
+     "label": "Kinship",
+     "description": "Family relations"
+    },
+    {
+     "id": "office",
+     "label": "Office",
+     "description": "Commands and public offices held"
+    },
+    {
+     "id": "exile",
+     "label": "Exile",
+     "description": "Banishment and condemnation"
+    },
+    {
+     "id": "contemporaryOf",
+     "label": "Contemporary Of",
+     "description": "Person-to-person relations between contemporaries: colleagues, rivals, patrons, opponents"
+    }
+   ]
+  },
+  {
+   "id": "Text",
+   "label": "Text",
+   "attributes": [
+    {
+     "name": "textContent",
+     "range": "value"
+    },
+    {
+     "name": "ctsUri",
+     "range": "URI"
+    },
+    {
+     "name": "isPassageOf",
+     "range": "Document"
+    }
+   ]
+  },
+  {
+   "id": "Value",
+   "label": "Value",
+   "description": "A dated, qualified value.",
+   "attributes": [
+    {
+     "name": "beginDate",
+     "range": "value"
+    },
+    {
+     "name": "endDate",
+     "range": "value"
+    },
+    {
+     "name": "confidence",
+     "range": "value"
+    }
+   ]
+  }
+ ],
+ "conventions": [
+  "subtype: a concept branches into its kinds",
+  "confidence ∈ { low, medium, high }",
+  "Topic is a flat class: no hierarchy."
+ ]
+}

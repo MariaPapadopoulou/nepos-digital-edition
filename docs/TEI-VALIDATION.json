@@ -1,0 +1,52 @@
+{
+  "schema": "TEI P5 4.12.0 tei_all.rng",
+  "schemaValid": true,
+  "works": 26,
+  "perseusWorks": 25,
+  "praefatioSections": 8,
+  "praefatioTextExact": true,
+  "chapters": 176,
+  "sections": 837,
+  "assertions": 139,
+  "passageLinks": 177,
+  "uniqueEvidenceChapters": 109,
+  "nestedAssertions": 0,
+  "assertionRoundTripExact": true,
+  "entityRegisterRoundTripExact": true,
+  "sourceBodiesPreserved": true,
+  "allAddedFragmentReferencesResolve": true,
+  "serverFilesUnchanged": true,
+  "previousCitationAndDelphisFixesPreserved": true,
+  "sourceBodyElementCounts": {
+    "abbr": 79,
+    "body": 25,
+    "del": 39,
+    "div": 201,
+    "ex": 79,
+    "expan": 79,
+    "foreign": 2,
+    "gap": 3,
+    "l": 1,
+    "lb": 1,
+    "p": 185,
+    "quote": 1,
+    "said": 3,
+    "seg": 829
+  },
+  "topics": {
+    "birth": 24,
+    "travel": 34,
+    "residence": 12,
+    "death": 24,
+    "exile": 9,
+    "kinship": 13,
+    "contemporaryOf": 17,
+    "office": 6
+  },
+  "confidence": {
+    "high": 123,
+    "medium": 15,
+    "low": 1
+  },
+  "corpusSha256": "547ca4501688962aeb7d237ecee92e2f32bff4502648ed193dd2104dcbba2d96"
+}

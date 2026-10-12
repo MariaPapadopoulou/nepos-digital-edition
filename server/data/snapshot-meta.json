@@ -1,0 +1,14 @@
+{
+  "dbpedia-snapshot": {
+    "refreshedAt": "2026-08-04"
+  },
+  "person-wikidata-snapshot": {
+    "refreshedAt": "2026-08-04"
+  },
+  "pleiades-snapshot": {
+    "refreshedAt": "2026-08-04"
+  },
+  "wikidata-snapshot": {
+    "refreshedAt": "2026-08-04"
+  }
+}

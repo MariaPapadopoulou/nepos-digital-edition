@@ -1,0 +1,2247 @@
+[
+  {
+    "life": "miltiades",
+    "n": 1,
+    "i": 0,
+    "s": "Miltiades",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 1,
+    "i": 6,
+    "s": "Athenienses",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "miltiades",
+    "n": 1,
+    "i": 26,
+    "s": "Lemnii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "miltiades",
+    "n": 1,
+    "i": 32,
+    "s": "Miltiades",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 1,
+    "i": 34,
+    "s": "Chersonesum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 2,
+    "i": 3,
+    "s": "Chersoneso",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 2,
+    "i": 7,
+    "s": "Chersonesi",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 2,
+    "i": 13,
+    "s": "Cyclades",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 3,
+    "i": 9,
+    "s": "Scythis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "miltiades",
+    "n": 3,
+    "i": 21,
+    "s": "Scythis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "miltiades",
+    "n": 3,
+    "i": 41,
+    "s": "Chersonesum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 4,
+    "i": 10,
+    "s": "Artaphernem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 4,
+    "i": 18,
+    "s": "Euboeam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 4,
+    "i": 32,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 4,
+    "i": 34,
+    "s": "Miltiadem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 4,
+    "i": 36,
+    "s": "Miltiades",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 7,
+    "i": 11,
+    "s": "Parum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 7,
+    "i": 13,
+    "s": "Stesagoras",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 8,
+    "i": 5,
+    "s": "Pisistrati",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 8,
+    "i": 7,
+    "s": "Miltiades",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "miltiades",
+    "n": 8,
+    "i": 9,
+    "s": "Chersoneso",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "miltiades",
+    "n": 8,
+    "i": 11,
+    "s": "Miltiade",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "themistocles",
+    "n": 10,
+    "i": 1,
+    "s": "Corcyraeos",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "themistocles",
+    "n": 11,
+    "i": 1,
+    "s": "Leonida",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "themistocles",
+    "n": 11,
+    "i": 13,
+    "s": "Euboeam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 11,
+    "i": 17,
+    "s": "Euboeam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 14,
+    "i": 9,
+    "s": "Lacedaemonii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "themistocles",
+    "n": 14,
+    "i": 21,
+    "s": "Lacedaemonii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "themistocles",
+    "n": 15,
+    "i": 2,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 15,
+    "i": 4,
+    "s": "Lacedaemonii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "themistocles",
+    "n": 15,
+    "i": 6,
+    "s": "Lacedaemoniorum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "themistocles",
+    "n": 16,
+    "i": 13,
+    "s": "Argis",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 16,
+    "i": 15,
+    "s": "Corcyram",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 18,
+    "i": 7,
+    "s": "Artaxerxe",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "themistocles",
+    "n": 18,
+    "i": 11,
+    "s": "Magnesiae",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 18,
+    "i": 13,
+    "s": "Lampsacum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "themistocles",
+    "n": 18,
+    "i": 19,
+    "s": "Magnesiae",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "aristides",
+    "n": 20,
+    "i": 19,
+    "s": "Pausaniae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 22,
+    "i": 0,
+    "s": "Pausanias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 22,
+    "i": 2,
+    "s": "Lacedaemonius",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "pausanias",
+    "n": 22,
+    "i": 18,
+    "s": "Apollini",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 1,
+    "s": "Pausaniam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 5,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 7,
+    "s": "Byzantio",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 17,
+    "s": "Pausanias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 19,
+    "s": "Spartae",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 21,
+    "s": "Byzantii",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 29,
+    "s": "Pausaniam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 23,
+    "i": 31,
+    "s": "Pausanias",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 24,
+    "i": 9,
+    "s": "Spartam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 24,
+    "i": 11,
+    "s": "Colonas",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 25,
+    "i": 13,
+    "s": "Pausanias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "pausanias",
+    "n": 26,
+    "i": 3,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 26,
+    "i": 7,
+    "s": "Chalcioicos",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "pausanias",
+    "n": 26,
+    "i": 9,
+    "s": "Pausaniae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "cimon",
+    "n": 27,
+    "i": 18,
+    "s": "Miltiadis",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "cimon",
+    "n": 28,
+    "i": 17,
+    "s": "Scyrum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "cimon",
+    "n": 28,
+    "i": 23,
+    "s": "Athenarum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "cimon",
+    "n": 29,
+    "i": 3,
+    "s": "Athenienses",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "cimon",
+    "n": 29,
+    "i": 13,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "cimon",
+    "n": 30,
+    "i": 1,
+    "s": "Athenienses",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "lysander",
+    "n": 31,
+    "i": 2,
+    "s": "Lacedaemonius",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "lysander",
+    "n": 31,
+    "i": 6,
+    "s": "Peloponnesios",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "lysander",
+    "n": 31,
+    "i": 18,
+    "s": "Lacedaemonii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "lysander",
+    "n": 31,
+    "i": 24,
+    "s": "Lysander",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "lysander",
+    "n": 32,
+    "i": 7,
+    "s": "Thasii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "lysander",
+    "n": 33,
+    "i": 15,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 37,
+    "i": 3,
+    "s": "Syracusanis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "alcibiades",
+    "n": 37,
+    "i": 19,
+    "s": "Alcibiadem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 38,
+    "i": 15,
+    "s": "Lacedaemonem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 38,
+    "i": 19,
+    "s": "Perse",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "alcibiades",
+    "n": 39,
+    "i": 39,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 39,
+    "i": 45,
+    "s": "Byzantium",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 40,
+    "i": 15,
+    "s": "Eumolpidae",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "alcibiades",
+    "n": 41,
+    "i": 15,
+    "s": "Ornos",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 41,
+    "i": 17,
+    "s": "Bizanthen",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 41,
+    "i": 19,
+    "s": "Neontichos",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "alcibiades",
+    "n": 42,
+    "i": 13,
+    "s": "Alcibiades",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 42,
+    "i": 21,
+    "s": "Seuthem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 42,
+    "i": 23,
+    "s": "Thraecum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "alcibiades",
+    "n": 43,
+    "i": 9,
+    "s": "Thraeces",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "alcibiades",
+    "n": 43,
+    "i": 15,
+    "s": "Pharnabazum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 44,
+    "i": 27,
+    "s": "Alcibiadem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 45,
+    "i": 1,
+    "s": "Theopompus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "alcibiades",
+    "n": 45,
+    "i": 9,
+    "s": "Boeoti",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 3,
+    "s": "Ioniae",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 5,
+    "s": "Lydiae",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 11,
+    "s": "Artaxerxe",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 25,
+    "s": "Agesilaum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 29,
+    "s": "Tauro",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "conon",
+    "n": 51,
+    "i": 31,
+    "s": "Boeoti",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "conon",
+    "n": 53,
+    "i": 31,
+    "s": "Piraei",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "conon",
+    "n": 53,
+    "i": 33,
+    "s": "Athenarum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "conon",
+    "n": 54,
+    "i": 15,
+    "s": "Sardibus",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 0,
+    "s": "Dion",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 4,
+    "s": "Syracusanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 20,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 28,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 30,
+    "s": "Dionysii",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 32,
+    "s": "Dionem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 55,
+    "i": 34,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "dion",
+    "n": 56,
+    "i": 1,
+    "s": "Dionysium",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "dion",
+    "n": 56,
+    "i": 19,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "dion",
+    "n": 56,
+    "i": 23,
+    "s": "Dionysium",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 57,
+    "i": 5,
+    "s": "Dionysium",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 57,
+    "i": 9,
+    "s": "Philistum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 57,
+    "i": 17,
+    "s": "Dionysium",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 58,
+    "i": 5,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 7,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 15,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 23,
+    "s": "Dionysii",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 25,
+    "s": "Syracusarum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 29,
+    "s": "Dion",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 59,
+    "i": 33,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "dion",
+    "n": 60,
+    "i": 1,
+    "s": "Heraclidem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 60,
+    "i": 3,
+    "s": "Dion",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 60,
+    "i": 9,
+    "s": "Heraclidem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 62,
+    "i": 1,
+    "s": "Callicrates",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 62,
+    "i": 9,
+    "s": "Dionem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 62,
+    "i": 21,
+    "s": "Callicratem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 63,
+    "i": 7,
+    "s": "Dionem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 63,
+    "i": 11,
+    "s": "Syracusanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "dion",
+    "n": 63,
+    "i": 13,
+    "s": "Dion",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "dion",
+    "n": 64,
+    "i": 5,
+    "s": "Peloponneso",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "iphicrates",
+    "n": 66,
+    "i": 17,
+    "s": "Iphicraten",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "iphicrates",
+    "n": 67,
+    "i": 7,
+    "s": "Perdiccae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "iphicrates",
+    "n": 67,
+    "i": 11,
+    "s": "Iphicraten",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "iphicrates",
+    "n": 67,
+    "i": 17,
+    "s": "Thraessa",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "chabrias",
+    "n": 68,
+    "i": 5,
+    "s": "Boeotis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "chabrias",
+    "n": 68,
+    "i": 7,
+    "s": "Agesilaum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 69,
+    "i": 23,
+    "s": "Artaxerxe",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 69,
+    "i": 31,
+    "s": "Chabrias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 70,
+    "i": 9,
+    "s": "Chabriae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 70,
+    "i": 13,
+    "s": "Chabrias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 70,
+    "i": 29,
+    "s": "Chares",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "chabrias",
+    "n": 71,
+    "i": 5,
+    "s": "Chabrias",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "timotheus",
+    "n": 72,
+    "i": 18,
+    "s": "Ariobarzani",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "timotheus",
+    "n": 73,
+    "i": 1,
+    "s": "Peloponnesum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "timotheus",
+    "n": 73,
+    "i": 5,
+    "s": "Corcyram",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "timotheus",
+    "n": 74,
+    "i": 5,
+    "s": "Hellespontus",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "timotheus",
+    "n": 74,
+    "i": 29,
+    "s": "Chalcidem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "timotheus",
+    "n": 75,
+    "i": 19,
+    "s": "Iphicratis",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 76,
+    "i": 6,
+    "s": "Scythissa",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "datames",
+    "n": 76,
+    "i": 16,
+    "s": "Leucosyri",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "datames",
+    "n": 77,
+    "i": 1,
+    "s": "Autophrodates",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 77,
+    "i": 23,
+    "s": "Lydiae",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "datames",
+    "n": 78,
+    "i": 3,
+    "s": "Thuynem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 79,
+    "i": 11,
+    "s": "Aspis",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 79,
+    "i": 19,
+    "s": "Aspis",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 79,
+    "i": 23,
+    "s": "Aspis",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 80,
+    "i": 23,
+    "s": "Paphlagoniam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "datames",
+    "n": 81,
+    "i": 11,
+    "s": "Mithrobarzanem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 81,
+    "i": 15,
+    "s": "Pisidae",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "datames",
+    "n": 83,
+    "i": 1,
+    "s": "Autophrodates",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 83,
+    "i": 5,
+    "s": "Cappadocum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "datames",
+    "n": 83,
+    "i": 9,
+    "s": "Paphlagonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "datames",
+    "n": 83,
+    "i": 25,
+    "s": "Autophrodates",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 84,
+    "i": 1,
+    "s": "Datamen",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "datames",
+    "n": 86,
+    "i": 5,
+    "s": "Mithridates",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 87,
+    "i": 1,
+    "s": "Polymnii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 87,
+    "i": 3,
+    "s": "Thebanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 88,
+    "i": 1,
+    "s": "Thebanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 88,
+    "i": 11,
+    "s": "Lysim",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 90,
+    "i": 7,
+    "s": "Epaminondam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 90,
+    "i": 21,
+    "s": "Chabriam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 91,
+    "i": 1,
+    "s": "Thebanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 91,
+    "i": 7,
+    "s": "Thebanum",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 91,
+    "i": 9,
+    "s": "Epaminondam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 91,
+    "i": 19,
+    "s": "Meneclides",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 92,
+    "i": 27,
+    "s": "Oedipum",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 92,
+    "i": 29,
+    "s": "Attici",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 93,
+    "i": 1,
+    "s": "Epaminondae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 93,
+    "i": 9,
+    "s": "Thebis",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "epaminondas",
+    "n": 94,
+    "i": 1,
+    "s": "Epaminondam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 94,
+    "i": 21,
+    "s": "Messene",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "epaminondas",
+    "n": 95,
+    "i": 5,
+    "s": "Epaminondam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "epaminondas",
+    "n": 95,
+    "i": 7,
+    "s": "Boeoti",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "epaminondas",
+    "n": 96,
+    "i": 7,
+    "s": "Cadmeam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "epaminondas",
+    "n": 96,
+    "i": 13,
+    "s": "Epaminondam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pelopidas",
+    "n": 97,
+    "i": 1,
+    "s": "Thebanus",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "pelopidas",
+    "n": 97,
+    "i": 7,
+    "s": "Lacedaemonius",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "pelopidas",
+    "n": 97,
+    "i": 13,
+    "s": "Cadmea",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "pelopidas",
+    "n": 97,
+    "i": 17,
+    "s": "Laconum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "pelopidas",
+    "n": 97,
+    "i": 19,
+    "s": "Lacedaemonii",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "pelopidas",
+    "n": 99,
+    "i": 5,
+    "s": "Archia",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pelopidas",
+    "n": 100,
+    "i": 1,
+    "s": "Thebarum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "pelopidas",
+    "n": 100,
+    "i": 3,
+    "s": "Pelopidae",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "pelopidas",
+    "n": 100,
+    "i": 9,
+    "s": "Spartam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "pelopidas",
+    "n": 100,
+    "i": 13,
+    "s": "Persas",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "pelopidas",
+    "n": 101,
+    "i": 19,
+    "s": "Pelopidam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "agesilaus",
+    "n": 102,
+    "i": 2,
+    "s": "Lacedaemonius",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "agesilaus",
+    "n": 104,
+    "i": 15,
+    "s": "Cariam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "agesilaus",
+    "n": 104,
+    "i": 17,
+    "s": "Agesilaus",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "agesilaus",
+    "n": 105,
+    "i": 17,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "agesilaus",
+    "n": 105,
+    "i": 21,
+    "s": "Peloponneso",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "agesilaus",
+    "n": 105,
+    "i": 25,
+    "s": "Boeoti",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "agesilaus",
+    "n": 107,
+    "i": 7,
+    "s": "Spartam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "agesilaus",
+    "n": 108,
+    "i": 7,
+    "s": "Lacedaemonii",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "agesilaus",
+    "n": 108,
+    "i": 11,
+    "s": "Eurysthenes",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "agesilaus",
+    "n": 109,
+    "i": 13,
+    "s": "Cyrenas",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 110,
+    "i": 7,
+    "s": "Philippi",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 112,
+    "i": 7,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 112,
+    "i": 13,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 112,
+    "i": 17,
+    "s": "Macedonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "eumenes",
+    "n": 113,
+    "i": 7,
+    "s": "Craterum",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 114,
+    "i": 1,
+    "s": "Hellespontum",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 115,
+    "i": 1,
+    "s": "Olympias",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 115,
+    "i": 17,
+    "s": "Philippi",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 116,
+    "i": 7,
+    "s": "Persidem",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 116,
+    "i": 9,
+    "s": "Antigenes",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 116,
+    "i": 11,
+    "s": "Macedonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "eumenes",
+    "n": 116,
+    "i": 19,
+    "s": "Eumenis",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 117,
+    "i": 1,
+    "s": "Paraetacis",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "eumenes",
+    "n": 119,
+    "i": 15,
+    "s": "Eumene",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 120,
+    "i": 3,
+    "s": "Eumenes",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "eumenes",
+    "n": 122,
+    "i": 11,
+    "s": "Macedonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "phocion",
+    "n": 124,
+    "i": 21,
+    "s": "Phocion",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "phocion",
+    "n": 125,
+    "i": 7,
+    "s": "Macedonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "phocion",
+    "n": 125,
+    "i": 9,
+    "s": "Polyperchonti",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "phocion",
+    "n": 125,
+    "i": 19,
+    "s": "Polyperchontem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "phocion",
+    "n": 125,
+    "i": 21,
+    "s": "Phocion",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "phocion",
+    "n": 125,
+    "i": 25,
+    "s": "Agnone",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "timoleon",
+    "n": 127,
+    "i": 8,
+    "s": "Timophanes",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 5,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 13,
+    "s": "Dionysium",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 19,
+    "s": "Dionysiorum",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 21,
+    "s": "Corinthii",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 23,
+    "s": "Dionysii",
+    "from": "LOC",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 27,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 29,
+    "s": "Dionysio",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-ii"
+  },
+  {
+    "life": "timoleon",
+    "n": 128,
+    "i": 41,
+    "s": "Mamercum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "timoleon",
+    "n": 129,
+    "i": 3,
+    "s": "Corintho",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "timoleon",
+    "n": 129,
+    "i": 5,
+    "s": "Syracusae",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "timoleon",
+    "n": 129,
+    "i": 7,
+    "s": "Syracusis",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "timoleon",
+    "n": 129,
+    "i": 9,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "timoleon",
+    "n": 131,
+    "i": 9,
+    "s": "Syracusanis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "timoleon",
+    "n": 131,
+    "i": 11,
+    "s": "Syracusanis",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "de-regibus",
+    "n": 132,
+    "i": 3,
+    "s": "Lacedaemonius",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "de-regibus",
+    "n": 133,
+    "i": 1,
+    "s": "Macedonum",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "de-regibus",
+    "n": 133,
+    "i": 27,
+    "s": "Dionysius",
+    "from": "PERSON",
+    "to": "PERSON",
+    "person": "dionysius-i"
+  },
+  {
+    "life": "hamilcar",
+    "n": 135,
+    "i": 3,
+    "s": "Barca",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "hamilcar",
+    "n": 135,
+    "i": 21,
+    "s": "Aegates",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "hamilcar",
+    "n": 136,
+    "i": 11,
+    "s": "Poeni",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "hamilcar",
+    "n": 138,
+    "i": 1,
+    "s": "Hamilcar",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 141,
+    "i": 11,
+    "s": "Saguntum",
+    "from": "NORP",
+    "to": "LOC"
+  },
+  {
+    "life": "hannibal",
+    "n": 142,
+    "i": 11,
+    "s": "Longo",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 143,
+    "i": 19,
+    "s": "Lucanis",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "hannibal",
+    "n": 144,
+    "i": 13,
+    "s": "Zamam",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "hannibal",
+    "n": 145,
+    "i": 51,
+    "s": "Antiochum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 145,
+    "i": 53,
+    "s": "Poeni",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "hannibal",
+    "n": 146,
+    "i": 21,
+    "s": "Poeni",
+    "from": "PERSON",
+    "to": "NORP"
+  },
+  {
+    "life": "hannibal",
+    "n": 146,
+    "i": 23,
+    "s": "Magonem",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 146,
+    "i": 27,
+    "s": "Antiochum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 147,
+    "i": 4,
+    "s": "Gortynios",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "hannibal",
+    "n": 148,
+    "i": 13,
+    "s": "Eumenes",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "hannibal",
+    "n": 149,
+    "i": 7,
+    "s": "Bithyni",
+    "from": "LOC",
+    "to": "NORP"
+  },
+  {
+    "life": "hannibal",
+    "n": 151,
+    "i": 1,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "cato",
+    "n": 152,
+    "i": 3,
+    "s": "Tusculo",
+    "from": "PERSON",
+    "to": "LOC"
+  },
+  {
+    "life": "cato",
+    "n": 152,
+    "i": 33,
+    "s": "Publio P.",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "cato",
+    "n": 152,
+    "i": 37,
+    "s": "Heluio",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "cato",
+    "n": 152,
+    "i": 43,
+    "s": "Quintum Q.",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 155,
+    "i": 5,
+    "s": "Lucius L.",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 156,
+    "i": 5,
+    "s": "Pomponii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 162,
+    "i": 3,
+    "s": "Brutos",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 162,
+    "i": 17,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 162,
+    "i": 27,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 163,
+    "i": 7,
+    "s": "Antonii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 163,
+    "i": 11,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 163,
+    "i": 23,
+    "s": "Fuluiae",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 163,
+    "i": 27,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 164,
+    "i": 23,
+    "s": "Canum",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 164,
+    "i": 25,
+    "s": "Atticus",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 165,
+    "i": 3,
+    "s": "Cassii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 165,
+    "i": 19,
+    "s": "Seruiliam",
+    "from": "LOC",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 166,
+    "i": 33,
+    "s": "Antonii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 169,
+    "i": 5,
+    "s": "Hortensii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 172,
+    "i": 14,
+    "s": "Cornelii",
+    "from": "NORP",
+    "to": "PERSON"
+  },
+  {
+    "life": "atticus",
+    "n": 172,
+    "i": 18,
+    "s": "Fabiorum",
+    "from": "LOC",
+    "to": "PERSON"
+  }
+]
