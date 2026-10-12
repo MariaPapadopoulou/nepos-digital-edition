@@ -1,18 +1,6 @@
 # TEI/XML with the edition's assertions
 
-`web/tei/nepos-assertions-tei.xml` is a single TEI P5 `teiCorpus` containing
-the 25 pinned Perseus `perseus-lat2` source documents and the complete Praefatio
-from the website reader: 26 texts, 176 chapters and 837 numbered sections
-(829 from Perseus plus the eight Praefatio units). All 139 assertions from
-`server/data/assertions.json` are retained.
-
-The Praefatio has separate, explicit provenance: the eight `life=praefatio`
-records in `server/data/chapters.json`. Their exact text, spelling and punctuation
-are preserved. The underlying printed edition has not been established from
-this dataset, and the text is not attributed to the 25 Perseus XML files.
-Its units are encoded as sections of a preface, with links to the corresponding
-reader anchors. There are no assertions about the Praefatio in the source data;
-none have been invented for this addition.
+`web/tei/nepos-assertions-tei.xml` is a TEI P5 file containing 26 texts, 176 chapters and 837 numbered sections and 139 assertions from `server/data/assertions.json`.
 
 ## Data model
 
