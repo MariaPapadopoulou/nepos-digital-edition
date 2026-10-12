@@ -1,6 +1,7 @@
 # Nepos Digital Scholarly Edition
 
 A digital scholarly edition of Cornelius Nepos’ *De viris illustribus*, combining the Latin text with people, places, scholarly assertions, maps, networks and **Ask Nepos**.
+It enables readers to connect close reading with the exploration of historical relationships and geographical contexts, examine scholarly claims against textual evidence, and ask questions with answers linked to relevant passages.
 
 **Curated and maintained by [Dr. Maria Papadopoulou](https://maria-papadopoulou.eu/), Digital Humanities and Classics, University of Crete.**
 
