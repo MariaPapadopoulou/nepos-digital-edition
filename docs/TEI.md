@@ -16,5 +16,5 @@ To rebuild, run from the repository root:
 node scripts/build-tei.mjs
 ```
 
-The generator uses Node.js built-in modules only.
+The generator uses Node.js built-in modules.
 
