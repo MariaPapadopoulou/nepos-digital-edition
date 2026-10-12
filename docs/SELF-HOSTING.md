@@ -105,7 +105,7 @@ API server at all (dictionary lookups will also be off).
 
 ---
 
-## Οδηγίες στα ελληνικά (σύνοψη)
+## Οδηγίες στα ελληνικά (συνοπτικά)
 
 1. **Ιστοσελίδα**: αντιγράψτε το περιεχόμενο του `web/` στον web server σας
    (nginx/Apache). Είναι single-page app; ο server πρέπει να επιστρέφει το
@@ -115,7 +115,7 @@ API server at all (dictionary lookups will also be off).
    (μέσα στον φάκελο `server/`). Κρατήστε τον ενεργό με systemd ή pm2.
 3. **Proxy**: δρομολογήστε το `/api/` στη θύρα 8080, με `proxy_buffering off`
    (το «Ask» στέλνει την απάντηση σε ροή).
-4. **Σύνδεση με Google (προαιρετική)**, βήμα προς βήμα:
+4. **Σύνδεση με Google (προαιρετική)**:
    - Στο console.cloud.google.com δημιουργήστε νέο έργο (π.χ. «Nepos Edition»).
    - «APIs & Services» → «OAuth consent screen»: επιλέξτε External, συμπληρώστε
      μόνο τα υποχρεωτικά (όνομα εφαρμογής, email), αποθηκεύστε και πατήστε
