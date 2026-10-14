@@ -2,7 +2,7 @@
 
 `web/tei/nepos-assertions-tei.xml` is a TEI P5 `teiCorpus` containing **26 texts, 176 chapters, 837 numbered sections and 139 assertions**.
 
-It combines 25 Perseus XML documents with the Praefatio from the edition’s reader. The Praefatio comprises eight units from `server/data/chapters.json`; its underlying printed edition has not been established.
+It combines 25 Perseus XML documents with the Praefatio from the edition’s reader. The Praefatio comprises eight units from `server/data/chapters.json`.
 
 Assertions from `server/data/assertions.json` are encoded as independent stand-off annotations targeting chapters. Each preserves its identifier, topic, confidence, note and complete JSON record through TEI feature structures. Section identifiers provide reference points; assertion evidence remains linked at chapter level. Person and place registers are included without adding name tags to the Latin text. Classifications found only in the separate OWL dataset are excluded.
 
